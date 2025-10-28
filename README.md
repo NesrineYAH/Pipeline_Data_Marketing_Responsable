@@ -5,14 +5,14 @@
 ---
 
 ## 📋 Table des Matières
+- [🤝 Contribution](#-contribution)
 - [🎯 Objectif](#-objectif)
-- [🏗️ Architecture](#️-architecture)
 - [🛠️ Technologies](#️-technologies)
 - [🚀 Installation](#-installation)
 - [📊 Utilisation](#-utilisation)
 - [🎨 Fonctionnalités](#-fonctionnalités)
 - [📁 Structure du Projet](#-structure-du-projet)
-- [🤝 Contribution](#-contribution)
+
 
 🤝 Contribution
 Ce projet a été développé Nesrine YAHOUM Data Engineer, Développeuse full stack  pour démontrer des compétences en data engineering dans le cadre d'une candidature  dans le cadre d'une recherche d'alternance Data Engineer/Data Analystchez  Numberly.
@@ -26,7 +26,6 @@ Simuler un pipeline data engineering complet pour Numberly, spécialiste du Data
 - **Pipeline ETL** (Extract, Transform, Load) robuste
 - **Dashboard interactif** pour l'analyse marketing
 - **Containerisation Docker** pour la reproductibilité
-
 
 ##  Manuellement
 - ** pip install -r requirements.txt
@@ -48,7 +47,8 @@ docker-compose up dashboard
 - **Segmentation clients (Premium, Standard, Basique)
 
 
-## Fonctionnalités
+## 🎯 Fonctionnalités
+
 <h3>📈 Dashboard Analytics</h3>
 Dashboard Analytics
 KPIs Principaux : Clients uniques, taux de conversion, chiffre d'affaires
@@ -62,44 +62,35 @@ Analyse Temporelle : Évolution des interactions et achats
 Visualisations Interactives : Graphiques Plotly
 
 
-
-<h3>🔧 Pipeline Data</h3>
-
- - ** Génération de données réalistes avec Faker
- - ** Nettoyage et transformation des données
- - ** Calcul de métriques business (RFM, conversion, etc.)
- - ** Export format CSV pour analyse ultérieure
+## 🎯 Pipeline Data 
+ Génération de données réalistes avec Faker
+ Nettoyage et transformation des données
+ Calcul de métriques business (RFM, conversion, etc.)
+ Export format CSV pour analyse ultérieure
 
 <h2> 📁 Structure du Projet</h2>
 <img src="./assets/structure projets.png" alt="structure projet" >
-
-
-
-
-
-
 
 
 ##  Visualisations interactives Plotly
 <h2> 📊 Jeu de Données </h2>
 Données Générées
 1 000 clients avec :
-- **
-- ** Démographie (âge, ville)
-- ** Segment (Premium, Standard, Basique)
-- ** Canal d'acquisition
+Démographie (âge, ville)
+Segment (Premium, Standard, Basique)
+Canal d'acquisition
 
 5 000 interactions avec :
 
-- ** Types d'actions (page_vue, ajout_panier, achat)
-- ** Valeurs d'achat
-- ** Timestamps réalistes
+Types d'actions (page_vue, ajout_panier, achat)
+Valeurs d'achat
+Timestamps réalistes
 
 Métriques Calculées
-- ** Taux de conversion par canal
-- ** Chiffre d'affaires total
+Taux de conversion par canal
+Chiffre d'affaires total
 Panier moyen
-- ** Segmentation comportementale
+Segmentation comportementale
 
 
 Stack technique alignée sur les besoins Numberly :
@@ -120,12 +111,7 @@ Export CSV pour analyse
 Dashboard : http://localhost:8501
 
 Données : Générées automatiquement dans data/
-
-
-    
-
 ##  Manuellement
-
-- ** pip install -r requirements.txt
-- ** python etl_pipeline.py
-- ** streamlit run dashboard/streamlit_app.py
+pip install -r requirements.txt
+python etl_pipeline.py
+streamlit run dashboard/streamlit_app.py
