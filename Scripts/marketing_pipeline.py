@@ -32,3 +32,18 @@ def generate_marketing_data():
             'valeur_achat': np.random.uniform(10, 200) if np.random.random() > 0.7 else 0,
             'date': fake.date_between(start_date='-3months', end_date='today')
         })
+        
+    return pd.DataFrame(clients), pd.DataFrame(interactions)     
+
+def transform_data(df_clients, df_interactions):
+    df_merged = pd.merge(df_interactions, df_clients, on='client_id')
+    df_merged['est_achat'] = df_merged['valeur_achat'] > 0
+    df_merged['date'] = pd.to_datetime(df_merged['date'])
+    return df_merged
+
+if __name__ == "__main__":
+    print("🚀 Génération des données marketing...")
+    clients, interactions = generate_marketing_data()
+    df_final = transform_data(clients, interactions)
+    
+    
