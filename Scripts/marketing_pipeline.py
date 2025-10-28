@@ -21,5 +21,14 @@ def generate_marketing_data():
         })
     
 
-    # Données interactions   
+    # Données générées interactions entre des clients et un site ou une application  
+    # Initialise une liste vide pour stocker les interactions.
     interactions = []
+    for i in range(5000):
+        interactions.append({
+            'interaction_id': i,
+            'client_id': f"C_{np.random.randint(0, 1000):04d}",
+            'type_action': np.random.choice(['page_vue', 'ajout_panier', 'achat']),
+            'valeur_achat': np.random.uniform(10, 200) if np.random.random() > 0.7 else 0,
+            'date': fake.date_between(start_date='-3months', end_date='today')
+        })
