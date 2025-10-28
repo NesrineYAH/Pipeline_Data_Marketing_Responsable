@@ -109,6 +109,7 @@ Export CSV pour analyse
 
 🌐 Accès
 Dashboard : http://localhost:8501
+ Ou bien vous pouvez cliquer directement sur: https://pipelinedatamarketingresponsable-jjxgqtunfdqy4byzksd3ze.streamlit.app/
 
 Données : Générées automatiquement dans data/
 ##  Manuellement
