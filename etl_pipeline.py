@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+from faker import Faker
+
 
 def generate_marketing_data():
     fake = Faker()
@@ -55,9 +57,11 @@ if __name__ == "__main__":
     clients, interactions = generate_marketing_data()
     df_final = transform_data(clients, interactions)
     
-    df_final.to_csv('donnees_marketing.csv', index=False)
-    clients.to_csv('clients.csv', index=False)
+df_final.to_csv('data/donnees_marketing.csv', index=False)
+clients.to_csv('data/clients.csv', index=False)
     
-    print(" Données sauvegardées : donnees_marketing.csv")
-    print(f"{len(df_final)} lignes générées")
+print(" Données sauvegardées : donnees_marketing.csv")
+print(f"{len(df_final)} lignes générées")
     
+    
+ 
