@@ -5,22 +5,18 @@
 ---
 
 ## 📋 Table des Matières
-<ul>
-<li>
-<a href=#>
-</li>
-- [🎯 Objectif]
-- [🏗️ Architecture]
-- [🛠️ Technologies]
-- [🚀 Installation
-- [📊 Utilisation]
+- [🎯 Objectif](#-objectif)
+- [🏗️ Architecture](#️-architecture)
+- [🛠️ Technologies](#️-technologies)
+- [🚀 Installation](#-installation)
+- [📊 Utilisation](#-utilisation)
 - [🎨 Fonctionnalités](#-fonctionnalités)
 - [📁 Structure du Projet](#-structure-du-projet)
 - [🤝 Contribution](#-contribution)
-<ul>
+
 ---
-<h1>id="## 🎯Objectif"</h1>
- 
+
+## 🎯 Objectif
 
 Simuler un pipeline data engineering complet pour Numberly, spécialiste du Data Marketing, en mettant en œuvre :
 - **Génération de données synthétiques** respectueuses de la vie privée
