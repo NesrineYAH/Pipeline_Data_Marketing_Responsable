@@ -27,24 +27,12 @@ Simuler un pipeline data engineering complet pour Numberly, spécialiste du Data
 - **Dashboard interactif** pour l'analyse marketing
 - **Containerisation Docker** pour la reproductibilité
 
----
-
-## 🏗️ Architecture
-
-```mermaid
-graph TB
-    A[📥 Génération Données] --> B[🔄 Transformation ETL]
-    B --> C[💾 Sauvegarde CSV]
-    C --> D[📊 Dashboard Streamlit]
-    E[🐳 Docker] --> A
-    E --> D
-    
 
 ##  Manuellement
-
 - ** pip install -r requirements.txt
 - ** python etl_pipeline.py
 - ** streamlit run dashboard/streamlit_app.py
+
 
 ## Lancer uniquement l'ETL
 docker-compose run etl-pipeline
@@ -57,15 +45,20 @@ docker-compose up dashboard
 - ** Performance par canal (SEO, Social, Email, Direct)
 - **Segmentation clients (Premium, Standard, Basique)
 
-<h2 id="fonctionnalites">🎨 Fonctionnalités</h2>
 
+## Fonctionnalités
 <h3>📈 Dashboard Analytics</h3>
-
+Dashboard Analytics
 KPIs Principaux : Clients uniques, taux de conversion, chiffre d'affaires
-    Performance par Canal : SEO, Social, Email, Direct
-    Segmentation Clients : Premium, Standard, Basique
-    Analyse Temporelle: Évolution des interactions et achats
-    Visualisations Interactives : Graphiques Plotly
+
+Performance par Canal : SEO, Social, Email, Direct
+
+Segmentation Clients : Premium, Standard, Basique
+
+Analyse Temporelle : Évolution des interactions et achats
+
+Visualisations Interactives : Graphiques Plotly
+
 
 
 <h3>🔧 Pipeline Data</h3>
@@ -125,3 +118,12 @@ Export CSV pour analyse
 Dashboard : http://localhost:8501
 
 Données : Générées automatiquement dans data/
+
+
+    
+
+##  Manuellement
+
+- ** pip install -r requirements.txt
+- ** python etl_pipeline.py
+- ** streamlit run dashboard/streamlit_app.py
