@@ -33,8 +33,10 @@ def generate_marketing_data():
             'date': fake.date_between(start_date='-3months', end_date='today')
         })
         
-    return pd.DataFrame(clients), pd.DataFrame(interactions)     
+    return pd.DataFrame(clients), pd.DataFrame(interactions)    
 
+#préparer les données d’interactions clients pour une analyse.
+ 
 def transform_data(df_clients, df_interactions):
     df_merged = pd.merge(df_interactions, df_clients, on='client_id')
     df_merged['est_achat'] = df_merged['valeur_achat'] > 0
@@ -42,8 +44,20 @@ def transform_data(df_clients, df_interactions):
     return df_merged
 
 if __name__ == "__main__":
-    print("🚀 Génération des données marketing...")
+    print("Génération des données marketing...")
     clients, interactions = generate_marketing_data()
     df_final = transform_data(clients, interactions)
     
+    
+    
+if __name__ == "__main__":
+    print(" Génération des données marketing...")
+    clients, interactions = generate_marketing_data()
+    df_final = transform_data(clients, interactions)
+    
+    df_final.to_csv('donnees_marketing.csv', index=False)
+    clients.to_csv('clients.csv', index=False)
+    
+    print(" Données sauvegardées : donnees_marketing.csv")
+    print(f"{len(df_final)} lignes générées")
     
