@@ -33,6 +33,8 @@ Simuler un pipeline data engineering complet pour Numberly, spécialiste du Data
 - ** python etl_pipeline.py
 - ** streamlit run dashboard/streamlit_app.py
 
+## Activer l'environnement
+numberly_env\Scripts\activate
 
 ## Lancer uniquement l'ETL
 docker-compose run etl-pipeline

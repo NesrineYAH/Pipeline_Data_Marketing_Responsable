@@ -1,1001 +1,1001 @@
 client_id,age,ville,segment,canal_acquisition
-C_0000,56,South Zoeberg,Premium,Publicité
-C_0001,25,Grayshire,Premium,Email
-C_0002,56,South Charles,Standard,Publicité
-C_0003,40,Hatfieldchester,Basique,Publicité
-C_0004,41,North Paulaburgh,Premium,Affiliation
-C_0005,57,Grayfurt,Basique,Direct
-C_0006,19,East Debbieton,Standard,Direct
-C_0007,19,North Eddietown,Premium,Partenariat
-C_0008,29,Port Allison,Standard,Direct
-C_0009,61,Shaneville,Premium,Partenariat
-C_0010,44,Brewerview,Basique,SEO
-C_0011,45,North Davidborough,Basique,Direct
-C_0012,64,Donnaland,Standard,Publicité
-C_0013,61,Melissatown,Basique,Affiliation
-C_0014,20,Georgefurt,Premium,Publicité
-C_0015,24,Lake Debraton,Premium,Partenariat
-C_0016,56,South Timothychester,Standard,Affiliation
-C_0017,42,New Tony,Standard,SEO
-C_0018,26,East Jonathan,Standard,Email
-C_0019,19,North Alexisside,Basique,Affiliation
-C_0020,24,Reidmouth,Premium,Publicité
-C_0021,31,Port Keithmouth,Premium,Affiliation
-C_0022,57,Andreafurt,Standard,Direct
-C_0023,23,Aprilchester,Standard,SEO
-C_0024,21,Shahport,Standard,Email
-C_0025,35,Stephenfort,Standard,Affiliation
-C_0026,51,West Shawn,Standard,Direct
-C_0027,53,East Michael,Standard,Direct
-C_0028,40,East Matthew,Premium,Direct
-C_0029,57,North Alisonmouth,Premium,Email
-C_0030,35,Lake Amandamouth,Basique,Email
-C_0031,41,Brianfurt,Standard,Partenariat
-C_0032,62,Taylorland,Premium,Email
-C_0033,32,North Saraport,Premium,Partenariat
-C_0034,42,North Christopherton,Basique,Partenariat
-C_0035,41,Lake Nicole,Premium,Affiliation
-C_0036,25,Port Sean,Basique,Publicité
-C_0037,34,North Melissachester,Basique,Publicité
-C_0038,50,North Jerry,Basique,Email
-C_0039,59,New Lisachester,Basique,SEO
-C_0040,58,Maddenside,Basique,Partenariat
-C_0041,25,Port Lisa,Standard,Partenariat
-C_0042,40,South Amanda,Standard,Email
-C_0043,52,South Cherylhaven,Standard,Publicité
-C_0044,52,Jenkinsside,Premium,Publicité
-C_0045,54,Sullivanstad,Basique,Direct
-C_0046,20,Vasquezshire,Premium,Email
-C_0047,43,Maddenshire,Basique,Direct
-C_0048,56,Patriciaton,Basique,Partenariat
-C_0049,32,North Brad,Basique,SEO
-C_0050,59,South Paul,Premium,Publicité
-C_0051,49,New Melissafurt,Basique,Partenariat
-C_0052,49,North William,Standard,Email
-C_0053,40,Craigstad,Basique,Email
-C_0054,32,South Reginald,Basique,Email
-C_0055,53,Port Kristinfurt,Premium,Publicité
-C_0056,39,Andreaton,Standard,SEO
-C_0057,62,Gonzalezport,Standard,Partenariat
-C_0058,23,Matthewton,Standard,Direct
-C_0059,28,Snyderberg,Standard,Affiliation
-C_0060,42,Port Debratown,Basique,Direct
-C_0061,50,New Barbaraton,Premium,Partenariat
-C_0062,44,Port Daniel,Standard,Partenariat
-C_0063,30,Lake Lynn,Premium,Publicité
-C_0064,56,Paulchester,Standard,Publicité
-C_0065,26,Port Evan,Standard,Email
-C_0066,50,East Tammiefort,Basique,SEO
-C_0067,61,Williamsberg,Basique,Publicité
-C_0068,49,Jonesburgh,Premium,Affiliation
-C_0069,29,East Williamstad,Standard,SEO
-C_0070,20,Jeffersonchester,Premium,Email
-C_0071,34,Jamesfort,Basique,Partenariat
-C_0072,19,North Allison,Standard,Affiliation
-C_0073,40,South Philip,Premium,Partenariat
-C_0074,18,North Shelbyport,Basique,Direct
-C_0075,19,East Wendychester,Premium,Affiliation
-C_0076,43,New Kathryn,Standard,Affiliation
-C_0077,28,Port Juanfurt,Basique,Partenariat
-C_0078,55,West Kevin,Premium,Affiliation
-C_0079,51,West Kennethmouth,Standard,Direct
-C_0080,28,Parktown,Basique,Partenariat
-C_0081,26,Susanville,Basique,Direct
-C_0082,33,Davidberg,Premium,Publicité
-C_0083,37,Porterstad,Basique,Affiliation
-C_0084,36,Alexanderberg,Standard,Publicité
-C_0085,36,Port Brycemouth,Basique,Affiliation
-C_0086,58,South Crystalberg,Premium,SEO
-C_0087,57,Ronaldborough,Premium,Publicité
-C_0088,45,West Ryan,Premium,Partenariat
-C_0089,40,West Taylorfurt,Basique,Direct
-C_0090,59,Amandachester,Basique,Affiliation
-C_0091,33,Lake Jackiestad,Standard,Partenariat
-C_0092,19,Harperburgh,Premium,Direct
-C_0093,29,Lake Zacharyshire,Premium,Email
-C_0094,49,East Peterfort,Basique,Partenariat
-C_0095,58,Jordanborough,Basique,Publicité
-C_0096,33,Wrightton,Basique,Affiliation
-C_0097,41,Port Brittany,Standard,Partenariat
-C_0098,41,South Katieton,Basique,Partenariat
-C_0099,25,Port Francisco,Standard,Affiliation
-C_0100,52,North Pamelahaven,Standard,Partenariat
-C_0101,52,Monicachester,Premium,Email
-C_0102,35,South Nicholasport,Standard,SEO
-C_0103,19,East Samantha,Standard,Publicité
-C_0104,33,Brewerchester,Premium,Partenariat
-C_0105,53,Vasquezstad,Premium,Affiliation
-C_0106,50,North David,Standard,Email
-C_0107,37,East Gina,Basique,Publicité
-C_0108,34,East Alexandraton,Premium,Affiliation
-C_0109,39,West Johntown,Basique,Direct
-C_0110,63,Barrychester,Standard,Direct
-C_0111,55,South Patricktown,Premium,Publicité
-C_0112,25,West Lori,Basique,Publicité
-C_0113,51,East Bobby,Premium,Direct
-C_0114,50,Gomezburgh,Basique,Partenariat
-C_0115,22,Larsenmouth,Premium,Publicité
-C_0116,21,Brewermouth,Basique,Partenariat
-C_0117,34,Stevensonton,Standard,Email
-C_0118,63,South Johnnyfort,Premium,Direct
-C_0119,52,Amyview,Premium,Email
-C_0120,41,Allenburgh,Premium,Partenariat
-C_0121,63,Michaelfurt,Premium,Publicité
-C_0122,50,East Robert,Basique,Email
-C_0123,38,Jasonmouth,Basique,Partenariat
-C_0124,20,South Michellefurt,Standard,Partenariat
-C_0125,59,Port Michael,Basique,Direct
-C_0126,20,Jamesburgh,Standard,SEO
-C_0127,49,Lake Kimberlymouth,Basique,Direct
-C_0128,40,Parksfort,Standard,Publicité
-C_0129,59,Loweborough,Standard,SEO
-C_0130,34,West Justinshire,Premium,Partenariat
-C_0131,60,Lake Andrewbury,Standard,Email
-C_0132,59,Amberview,Basique,SEO
-C_0133,52,Daystad,Standard,Partenariat
-C_0134,41,Michaelview,Premium,Affiliation
-C_0135,24,South Beverly,Premium,Affiliation
-C_0136,62,West Charlesville,Premium,Direct
-C_0137,33,Lake Melanie,Standard,Affiliation
-C_0138,40,Cowanfort,Basique,Affiliation
-C_0139,51,Tammyfurt,Standard,Direct
-C_0140,42,North Daltonborough,Standard,Direct
-C_0141,39,Schroederborough,Standard,SEO
-C_0142,39,Coxmouth,Premium,Affiliation
-C_0143,59,Smithside,Standard,Direct
-C_0144,60,South Johnnyside,Premium,Partenariat
-C_0145,25,Lake Amyborough,Premium,Affiliation
-C_0146,61,Odonnellmouth,Premium,Affiliation
-C_0147,23,New Rachaelside,Premium,Affiliation
-C_0148,47,Christopherville,Basique,Publicité
-C_0149,57,Caseyview,Premium,SEO
-C_0150,59,Jenniferhaven,Standard,Publicité
-C_0151,34,New Derek,Basique,Publicité
-C_0152,45,Hillbury,Standard,SEO
-C_0153,54,North Carolyn,Standard,Email
-C_0154,40,Martinezville,Basique,Partenariat
-C_0155,29,Davisberg,Premium,Partenariat
-C_0156,18,Marvinton,Basique,SEO
-C_0157,49,Markstad,Standard,Direct
-C_0158,42,Fryehaven,Premium,Email
-C_0159,18,Port Patrick,Premium,Email
-C_0160,39,Melissaburgh,Premium,Publicité
-C_0161,29,New Brian,Standard,Publicité
-C_0162,54,South Tracey,Standard,Partenariat
-C_0163,46,North Melissaborough,Standard,Affiliation
-C_0164,22,Emmaview,Basique,Partenariat
-C_0165,47,Watkinston,Standard,Direct
-C_0166,22,Robertsonview,Standard,SEO
-C_0167,38,West John,Basique,Affiliation
-C_0168,50,Annaburgh,Standard,Direct
-C_0169,54,Port Sheila,Basique,SEO
-C_0170,27,New Terrenceberg,Standard,Email
-C_0171,53,New Michael,Standard,Affiliation
-C_0172,48,Martinezville,Standard,SEO
-C_0173,36,Port Sandraberg,Standard,Partenariat
-C_0174,22,Darlenehaven,Premium,Affiliation
-C_0175,33,Lake Ashley,Basique,SEO
-C_0176,45,Watsonborough,Basique,Affiliation
-C_0177,41,Montgomerychester,Standard,Publicité
-C_0178,50,East Wayne,Premium,Email
-C_0179,60,Michaelport,Premium,Affiliation
-C_0180,20,Millerstad,Premium,Partenariat
-C_0181,57,Heatherstad,Standard,Publicité
-C_0182,61,New Josephmouth,Premium,Email
-C_0183,29,Lawrencefurt,Basique,Direct
-C_0184,19,Lake Laura,Premium,Publicité
-C_0185,52,North Louis,Basique,Partenariat
-C_0186,43,Staffordport,Premium,SEO
-C_0187,27,Shannonburgh,Standard,Direct
-C_0188,51,Kristinashire,Basique,Partenariat
-C_0189,24,New Herbertville,Standard,Email
-C_0190,62,New Terrenceport,Basique,Email
-C_0191,53,Christyburgh,Premium,Email
-C_0192,53,Karenport,Standard,Email
-C_0193,26,Christopherville,Basique,Partenariat
-C_0194,52,Lake Stefaniechester,Standard,Partenariat
-C_0195,56,South Jamesfort,Basique,Direct
-C_0196,49,Carrside,Premium,Affiliation
-C_0197,30,Christopherside,Basique,Partenariat
-C_0198,52,New Karenhaven,Premium,Direct
-C_0199,34,Russellview,Premium,Direct
-C_0200,37,New Robert,Premium,Direct
-C_0201,30,East Karenchester,Basique,Publicité
-C_0202,53,New Dawnmouth,Premium,Partenariat
-C_0203,36,Colemanport,Premium,Affiliation
-C_0204,31,West Abigail,Basique,Affiliation
-C_0205,36,Snydershire,Standard,Email
-C_0206,22,Fergusonborough,Basique,Affiliation
-C_0207,42,South Juliaville,Basique,Email
-C_0208,53,Bradleyview,Premium,Partenariat
-C_0209,56,Amandaland,Premium,Email
-C_0210,59,East Gabriel,Standard,Direct
-C_0211,48,West Carolyn,Standard,Email
-C_0212,52,Villarrealville,Basique,Email
-C_0213,60,Grahamside,Basique,SEO
-C_0214,64,Erinside,Premium,SEO
-C_0215,61,New Helen,Premium,Email
-C_0216,55,South Dannyshire,Basique,Direct
-C_0217,30,Bobbyburgh,Standard,Partenariat
-C_0218,44,West Jerry,Standard,SEO
-C_0219,22,Lake Alexabury,Premium,Email
-C_0220,55,Ashleyton,Basique,Email
-C_0221,18,West Kathleenshire,Standard,Affiliation
-C_0222,34,Lake Michael,Basique,Partenariat
-C_0223,62,Buckland,Standard,Affiliation
-C_0224,48,Bethland,Basique,Email
-C_0225,61,New Frank,Standard,Publicité
-C_0226,27,Nathanstad,Standard,Publicité
-C_0227,56,Curtistown,Standard,Publicité
-C_0228,62,Luisstad,Premium,SEO
-C_0229,45,Larsonstad,Standard,SEO
-C_0230,37,Lake Katherine,Premium,Partenariat
-C_0231,56,Port Christopher,Premium,Publicité
-C_0232,30,Zacharyton,Standard,Partenariat
-C_0233,42,Hannahmouth,Premium,Direct
-C_0234,23,New Nicoleport,Standard,Affiliation
-C_0235,62,Port Connie,Premium,Email
-C_0236,64,South Theresa,Premium,Direct
-C_0237,38,Alyssaland,Basique,Affiliation
-C_0238,54,Lake Jacob,Basique,Publicité
-C_0239,37,Ingramview,Premium,SEO
-C_0240,64,Michelleport,Premium,Partenariat
-C_0241,31,West Andrewbury,Basique,Partenariat
-C_0242,20,Crossmouth,Basique,Partenariat
-C_0243,28,South Joshuaton,Standard,Direct
-C_0244,29,South Carl,Premium,SEO
-C_0245,45,Barnettfort,Standard,SEO
-C_0246,45,Port Laurenport,Premium,Partenariat
-C_0247,53,West Joseph,Basique,Direct
-C_0248,34,East Nicoleland,Premium,Partenariat
-C_0249,37,New Samanthahaven,Premium,Affiliation
-C_0250,46,Millerstad,Premium,Direct
-C_0251,52,Christinaton,Premium,Direct
-C_0252,35,North Michaelside,Basique,Email
-C_0253,64,South Kellychester,Premium,SEO
-C_0254,27,Lake Danielburgh,Standard,SEO
-C_0255,62,Amberview,Premium,Partenariat
-C_0256,18,Port Sarah,Standard,Partenariat
-C_0257,28,Port Morgan,Premium,SEO
-C_0258,42,Lake Jessicaton,Standard,Publicité
-C_0259,44,Allenborough,Premium,Email
-C_0260,50,Jamesport,Standard,Partenariat
-C_0261,52,Alexanderside,Basique,Partenariat
-C_0262,38,Morganside,Basique,Direct
-C_0263,45,Rosstown,Premium,Email
-C_0264,48,Ruthtown,Premium,Direct
-C_0265,20,Lake Daniel,Premium,Email
-C_0266,54,New Katelynburgh,Standard,SEO
-C_0267,36,Hunterside,Premium,Email
-C_0268,31,Caseychester,Premium,Direct
-C_0269,18,Weberstad,Basique,Email
-C_0270,30,North Michael,Standard,Partenariat
-C_0271,57,Port Keith,Standard,Affiliation
-C_0272,48,Janetport,Basique,SEO
-C_0273,51,East Peter,Standard,Direct
-C_0274,20,Krauseview,Basique,SEO
-C_0275,29,Scotttown,Premium,Direct
-C_0276,61,Kingchester,Premium,Direct
-C_0277,47,West Kelly,Basique,Partenariat
-C_0278,34,East Melvinfort,Basique,Email
-C_0279,38,Lake Jameston,Standard,SEO
-C_0280,28,East Elizabeth,Basique,Direct
-C_0281,51,Port Dakota,Standard,SEO
-C_0282,51,Nicholasview,Standard,Direct
-C_0283,32,Kristineshire,Basique,Publicité
-C_0284,51,East Hannah,Premium,Direct
-C_0285,50,Ortizport,Basique,Affiliation
-C_0286,47,Kaitlynmouth,Basique,SEO
-C_0287,34,Mooremouth,Premium,Email
-C_0288,21,East Brendaside,Standard,Partenariat
-C_0289,27,South Danielle,Premium,Affiliation
-C_0290,37,Thomasburgh,Premium,SEO
-C_0291,23,New Collinland,Premium,SEO
-C_0292,30,North Brian,Standard,Publicité
-C_0293,60,Robertview,Basique,Publicité
-C_0294,64,Port Carol,Premium,Publicité
-C_0295,33,Cynthiaberg,Premium,Publicité
-C_0296,49,Jacobburgh,Basique,Publicité
-C_0297,46,South Maryland,Standard,Email
-C_0298,36,South Ann,Premium,Email
-C_0299,35,Gillville,Standard,Email
-C_0300,39,Joshuabury,Premium,Direct
-C_0301,18,New Loriside,Premium,Partenariat
-C_0302,29,New Ninamouth,Standard,Direct
-C_0303,51,Smithborough,Premium,Direct
-C_0304,43,West Hayleyfurt,Premium,Publicité
-C_0305,26,South Daniellemouth,Standard,Partenariat
-C_0306,64,Dawntown,Premium,Direct
-C_0307,64,Hernandezville,Standard,Publicité
-C_0308,34,Whitefurt,Standard,Affiliation
-C_0309,18,Port Nathaniel,Premium,Publicité
-C_0310,32,New Chelsea,Basique,Direct
-C_0311,31,West Jamesfort,Standard,Affiliation
-C_0312,40,Howellstad,Standard,SEO
-C_0313,62,Leeside,Standard,Direct
-C_0314,24,South Robert,Basique,Direct
-C_0315,60,Port Rhonda,Basique,Affiliation
-C_0316,62,North Jose,Standard,SEO
-C_0317,55,West Codyberg,Basique,Publicité
-C_0318,32,South Arielview,Premium,Email
-C_0319,45,Port Scott,Standard,Partenariat
-C_0320,34,Pamelaville,Basique,Direct
-C_0321,43,East Vanessastad,Standard,Affiliation
-C_0322,42,Beckerfurt,Premium,Email
-C_0323,37,New Anaville,Premium,Affiliation
-C_0324,27,Markstad,Basique,Partenariat
-C_0325,62,Port Dustinberg,Standard,Affiliation
-C_0326,64,Danielview,Standard,SEO
-C_0327,64,North Tamaraside,Premium,Affiliation
-C_0328,36,North James,Standard,Partenariat
-C_0329,54,Alvaradobury,Standard,Affiliation
-C_0330,43,Jasonfurt,Standard,Publicité
-C_0331,62,South Scott,Standard,Email
-C_0332,50,Frankview,Premium,Direct
-C_0333,38,Port Cynthiaborough,Standard,Direct
-C_0334,21,Valeriefurt,Standard,Publicité
-C_0335,47,West Charlene,Basique,Partenariat
-C_0336,20,West Melanie,Basique,Email
-C_0337,53,Jodyton,Basique,Direct
-C_0338,19,Rileytown,Basique,Affiliation
-C_0339,32,Gonzalezstad,Standard,Direct
-C_0340,47,North Zacharytown,Standard,Publicité
-C_0341,19,Port Josephmouth,Basique,Publicité
-C_0342,25,Lewisfort,Standard,Publicité
-C_0343,62,Hammondbury,Premium,Direct
-C_0344,43,South Alanview,Standard,Affiliation
-C_0345,36,North Holly,Premium,Affiliation
-C_0346,29,Ricardohaven,Basique,Partenariat
-C_0347,43,New Nicholasland,Standard,Direct
-C_0348,54,Tatemouth,Standard,Publicité
-C_0349,53,South Justin,Premium,Publicité
-C_0350,20,East Kylehaven,Premium,Direct
-C_0351,27,Watkinsbury,Premium,SEO
-C_0352,61,East Kristin,Standard,Email
-C_0353,57,East Dana,Standard,Affiliation
-C_0354,18,Chaseview,Basique,Email
-C_0355,26,Candaceport,Premium,Partenariat
-C_0356,28,West Patricia,Basique,Direct
-C_0357,52,East Tonytown,Standard,Partenariat
-C_0358,22,West Gregory,Standard,Affiliation
-C_0359,61,Wongton,Standard,Direct
-C_0360,28,South Karen,Premium,SEO
-C_0361,29,Harryburgh,Basique,Publicité
-C_0362,18,Josephview,Standard,Affiliation
-C_0363,46,Carpenterland,Basique,Partenariat
-C_0364,54,North Elizabethview,Standard,Affiliation
-C_0365,47,Tinashire,Basique,Email
-C_0366,54,North Scott,Premium,Publicité
-C_0367,31,New Philip,Standard,Direct
-C_0368,21,South Scott,Premium,Email
-C_0369,59,Lake Evanmouth,Premium,SEO
-C_0370,57,Newmanville,Basique,Direct
-C_0371,49,Lozanostad,Basique,Email
-C_0372,55,Braunport,Premium,Partenariat
-C_0373,42,North Crystal,Premium,Partenariat
-C_0374,64,Moorebury,Basique,SEO
-C_0375,31,Lake Johnbury,Premium,Publicité
-C_0376,56,Petersonfort,Basique,Direct
-C_0377,23,Alexismouth,Basique,Publicité
-C_0378,25,West Barbara,Standard,Affiliation
-C_0379,32,Jillland,Basique,Email
-C_0380,50,East Tonymouth,Standard,Publicité
-C_0381,53,Ortegastad,Premium,Direct
-C_0382,50,New Scott,Premium,Email
-C_0383,44,Griffithton,Basique,Partenariat
-C_0384,21,North Chelsea,Standard,SEO
-C_0385,27,Lake Edward,Premium,Publicité
-C_0386,27,Jessicatown,Premium,Direct
-C_0387,55,Lake John,Premium,Affiliation
-C_0388,62,Johnton,Basique,Email
-C_0389,25,Reyesbury,Premium,Email
-C_0390,64,New Kenneth,Premium,SEO
-C_0391,44,Port Brittanystad,Basique,Publicité
-C_0392,53,South Calvin,Standard,Publicité
-C_0393,44,East Joelmouth,Premium,Affiliation
-C_0394,28,East Jay,Standard,SEO
-C_0395,57,East Brettview,Standard,Direct
-C_0396,25,New Robertton,Basique,SEO
-C_0397,63,Thomasfort,Basique,Affiliation
-C_0398,43,East Christopherport,Premium,Direct
-C_0399,35,South Susan,Premium,Partenariat
-C_0400,64,Moorefort,Basique,Affiliation
-C_0401,61,North Ashley,Premium,Email
-C_0402,25,New Jacob,Basique,SEO
-C_0403,45,Hopkinsborough,Basique,SEO
-C_0404,26,Suzannemouth,Standard,Publicité
-C_0405,46,Moranborough,Standard,Partenariat
-C_0406,39,West Melissaville,Basique,Partenariat
-C_0407,63,Cherylstad,Premium,Email
-C_0408,43,Catherineshire,Standard,Affiliation
-C_0409,40,East Jillianborough,Premium,Partenariat
-C_0410,57,Port Juliafort,Basique,Email
-C_0411,64,Smithhaven,Premium,Email
-C_0412,26,Lake Timothy,Standard,Affiliation
-C_0413,43,Port Vanessa,Premium,Publicité
-C_0414,42,New Nicholasshire,Standard,Publicité
-C_0415,55,Danaside,Standard,SEO
-C_0416,44,Jasonmouth,Standard,Publicité
-C_0417,34,West Tracey,Basique,Publicité
-C_0418,61,Travishaven,Basique,Publicité
-C_0419,41,North Connorton,Premium,Affiliation
-C_0420,23,West Jared,Premium,Partenariat
-C_0421,46,South Lisatown,Basique,Publicité
-C_0422,39,Flemingport,Standard,Affiliation
-C_0423,38,Hernandezmouth,Premium,Partenariat
-C_0424,37,Michaelland,Premium,Partenariat
-C_0425,37,East Clayton,Standard,Direct
-C_0426,45,Peckville,Basique,Email
-C_0427,57,East Darrell,Premium,Partenariat
-C_0428,49,Lake Thomasberg,Premium,Direct
-C_0429,40,East Nancyside,Basique,Publicité
-C_0430,36,Nicholasville,Standard,Direct
-C_0431,46,Jamesside,Premium,Email
-C_0432,46,Bridgesfort,Standard,Publicité
-C_0433,35,South Richard,Premium,Direct
-C_0434,64,Mezamouth,Standard,SEO
-C_0435,45,Lake Joy,Premium,SEO
-C_0436,47,New Michael,Standard,Publicité
-C_0437,21,Wallacefurt,Premium,Email
-C_0438,56,Chambersville,Basique,SEO
-C_0439,27,West Dylanburgh,Basique,Direct
-C_0440,51,South Kevin,Premium,Affiliation
-C_0441,49,West Julie,Standard,Email
-C_0442,25,West Kylefurt,Premium,Partenariat
-C_0443,20,Wolfeshire,Basique,Publicité
-C_0444,25,Donnaport,Standard,Partenariat
-C_0445,64,Brenthaven,Premium,Publicité
-C_0446,50,Shawmouth,Basique,SEO
-C_0447,52,Powellshire,Standard,Direct
-C_0448,60,Christineside,Premium,Direct
-C_0449,38,Port Colinberg,Standard,SEO
-C_0450,24,Juanstad,Standard,Partenariat
-C_0451,40,Jacksonborough,Premium,Publicité
-C_0452,36,North Scottfurt,Premium,Affiliation
-C_0453,35,South Shawn,Standard,Partenariat
-C_0454,64,New Cynthia,Premium,Affiliation
-C_0455,28,Turnerville,Standard,SEO
-C_0456,20,South William,Basique,Affiliation
-C_0457,37,Josephland,Premium,Email
-C_0458,55,South Laurafurt,Standard,Partenariat
-C_0459,51,North Amandamouth,Premium,Affiliation
-C_0460,52,Smithstad,Standard,Direct
-C_0461,61,North Biancafort,Premium,SEO
-C_0462,47,Lake Cynthia,Basique,Direct
-C_0463,40,Lake Marychester,Premium,SEO
-C_0464,34,South Bernard,Standard,Partenariat
-C_0465,57,Port Devinmouth,Standard,Email
-C_0466,42,New Justinmouth,Basique,Partenariat
-C_0467,39,New Morgan,Basique,Direct
-C_0468,21,Brandiview,Standard,SEO
-C_0469,46,North Ashley,Premium,SEO
-C_0470,40,Beckburgh,Premium,Publicité
-C_0471,23,Chapmanberg,Standard,Email
-C_0472,59,Karenborough,Premium,Direct
-C_0473,51,Shelleyberg,Premium,Email
-C_0474,42,West Garyburgh,Standard,SEO
-C_0475,29,Brittanyville,Basique,Email
-C_0476,59,Francishaven,Standard,Email
-C_0477,44,New Michael,Premium,Direct
-C_0478,44,Campbellview,Standard,Affiliation
-C_0479,62,North Noahbury,Premium,Email
-C_0480,24,North Jacobside,Standard,Email
-C_0481,34,New Bianca,Standard,Email
-C_0482,45,West Amandafurt,Standard,SEO
-C_0483,63,Lake Maria,Standard,Affiliation
-C_0484,60,East Andrewtown,Premium,Publicité
-C_0485,53,Kirstenberg,Basique,SEO
-C_0486,46,West Jared,Premium,Publicité
-C_0487,57,West Meagan,Basique,Affiliation
-C_0488,56,North Stevenland,Basique,Direct
-C_0489,51,North Jessicaland,Basique,Direct
-C_0490,39,Ruizmouth,Premium,Partenariat
-C_0491,53,New Jenniferville,Basique,Affiliation
-C_0492,36,Santiagomouth,Basique,Affiliation
-C_0493,60,Margaretfort,Premium,Direct
-C_0494,62,South Andrewburgh,Basique,SEO
-C_0495,26,Port Jenniferfort,Standard,SEO
-C_0496,26,North Matthewhaven,Premium,Partenariat
-C_0497,18,North Mark,Premium,Email
-C_0498,60,Jenniferland,Standard,Partenariat
-C_0499,56,South John,Basique,Publicité
-C_0500,54,Taylorport,Basique,Direct
-C_0501,55,Hooperchester,Standard,Affiliation
-C_0502,36,North Walterborough,Premium,Affiliation
-C_0503,34,East Peggy,Standard,Partenariat
-C_0504,64,Michelleport,Standard,Publicité
-C_0505,25,South Jamesmouth,Basique,Email
-C_0506,34,Matthewchester,Basique,Email
-C_0507,33,South Brandonfort,Standard,Partenariat
-C_0508,35,Oscartown,Premium,Affiliation
-C_0509,32,West Kenneth,Basique,SEO
-C_0510,58,East Daniel,Premium,SEO
-C_0511,64,Port Lori,Standard,Partenariat
-C_0512,40,South Amy,Standard,Email
-C_0513,39,Connorville,Standard,Direct
-C_0514,32,Lake Jonathan,Premium,Partenariat
-C_0515,25,South Amandaberg,Standard,Publicité
-C_0516,40,Burtonton,Premium,SEO
-C_0517,48,South Carlosmouth,Standard,Affiliation
-C_0518,56,Lake Taylorside,Basique,SEO
-C_0519,59,North Stephanie,Basique,Partenariat
-C_0520,31,Adamshire,Basique,Publicité
-C_0521,61,Salazarchester,Premium,SEO
-C_0522,20,New Brianbury,Premium,Publicité
-C_0523,57,Booneberg,Standard,Affiliation
-C_0524,56,Lake Norman,Basique,Partenariat
-C_0525,21,South John,Premium,Direct
-C_0526,42,South Ana,Premium,SEO
-C_0527,50,North Bradbury,Premium,SEO
-C_0528,61,Port Michaelberg,Standard,SEO
-C_0529,52,Harmonport,Standard,SEO
-C_0530,47,Kendrahaven,Basique,Email
-C_0531,30,North Amberchester,Standard,Publicité
-C_0532,56,North Laura,Standard,Affiliation
-C_0533,46,Nguyenstad,Standard,Partenariat
-C_0534,46,Andrewberg,Standard,Email
-C_0535,61,Blairton,Premium,Affiliation
-C_0536,64,Allenchester,Premium,SEO
-C_0537,47,Silvaside,Premium,Affiliation
-C_0538,22,Christopherside,Premium,Direct
-C_0539,20,West Zacharyfurt,Premium,Direct
-C_0540,47,Macdonaldbury,Standard,Affiliation
-C_0541,35,East Jerome,Standard,Email
-C_0542,42,Abigailberg,Premium,Email
-C_0543,63,Elizabethtown,Basique,Partenariat
-C_0544,32,South Michaelside,Premium,Partenariat
-C_0545,41,Jonathantown,Basique,SEO
-C_0546,54,South Jeffrey,Premium,Email
-C_0547,60,Port Jennifertown,Standard,Direct
-C_0548,41,Port Jamesport,Basique,Direct
-C_0549,30,West Ryan,Standard,Partenariat
-C_0550,24,South Juliashire,Basique,Affiliation
-C_0551,46,Dianaland,Basique,Direct
-C_0552,62,Kellyland,Standard,SEO
-C_0553,60,Lake Olivialand,Standard,Partenariat
-C_0554,43,Lake Vanessaview,Premium,Partenariat
-C_0555,20,Ericport,Standard,Email
-C_0556,22,Port Kristabury,Standard,Partenariat
-C_0557,26,Pearsonview,Basique,Affiliation
-C_0558,59,West Miguelport,Basique,SEO
-C_0559,35,New Bradside,Standard,Partenariat
-C_0560,41,Riceview,Basique,Publicité
-C_0561,55,Lake Theresamouth,Premium,Email
-C_0562,64,Henryview,Premium,Partenariat
-C_0563,21,West William,Standard,Email
-C_0564,51,Wesleyberg,Basique,Partenariat
-C_0565,20,New Jessicaburgh,Basique,Affiliation
-C_0566,46,Wiseton,Premium,Publicité
-C_0567,42,Port Sonyahaven,Standard,Affiliation
-C_0568,59,Kimberlyland,Premium,Partenariat
-C_0569,22,West Angelaton,Basique,Publicité
-C_0570,51,West Derrick,Basique,Direct
-C_0571,25,New Eugene,Basique,Email
-C_0572,43,East Lauraville,Standard,Direct
-C_0573,54,Farleyton,Premium,Affiliation
-C_0574,22,Chasebury,Premium,Partenariat
-C_0575,57,Port Carlmouth,Premium,Direct
-C_0576,46,Hamptonside,Basique,SEO
-C_0577,20,Lake Rebeccatown,Standard,Publicité
-C_0578,30,Crystalview,Premium,Partenariat
-C_0579,23,New Meganburgh,Basique,Affiliation
-C_0580,50,Port Jamesmouth,Basique,Publicité
-C_0581,58,South Michael,Premium,Publicité
-C_0582,62,Hallstad,Premium,Email
-C_0583,59,Zacharyfurt,Basique,Publicité
-C_0584,55,Rickyside,Basique,Email
-C_0585,60,West Markton,Premium,SEO
-C_0586,48,Seanfort,Basique,SEO
-C_0587,27,New Jacqueline,Basique,Email
-C_0588,47,Port Candice,Basique,SEO
-C_0589,53,West Jasonland,Standard,Direct
-C_0590,30,Johnsonberg,Premium,Affiliation
-C_0591,56,West Olivia,Standard,Email
-C_0592,63,Melissamouth,Basique,Partenariat
-C_0593,58,West Alan,Premium,SEO
-C_0594,41,South Anna,Premium,Publicité
-C_0595,23,Stewartfurt,Basique,Direct
-C_0596,24,Calvinton,Standard,Partenariat
-C_0597,49,Leefurt,Standard,Affiliation
-C_0598,32,West Lori,Standard,Email
-C_0599,46,Laceymouth,Standard,Affiliation
-C_0600,37,North Joshuamouth,Standard,Affiliation
-C_0601,44,Stevenstad,Premium,Affiliation
-C_0602,39,Cruzchester,Premium,SEO
-C_0603,18,West Charlesborough,Standard,SEO
-C_0604,35,Teresaview,Standard,Direct
-C_0605,64,East Courtney,Premium,Affiliation
-C_0606,53,Atkinsonview,Basique,Publicité
-C_0607,29,Raychester,Basique,Email
-C_0608,28,South Maryhaven,Premium,Direct
-C_0609,64,North Sarahburgh,Basique,Publicité
-C_0610,28,Chandlerburgh,Standard,SEO
-C_0611,51,Williamstown,Standard,SEO
-C_0612,46,West Paul,Premium,Publicité
-C_0613,30,North Brentbury,Premium,Email
-C_0614,46,Johnsonmouth,Basique,Affiliation
-C_0615,49,West Nathaniel,Standard,Direct
-C_0616,37,South Sueton,Standard,Publicité
-C_0617,44,North Jamesstad,Basique,Partenariat
-C_0618,61,Lopezburgh,Premium,Email
-C_0619,64,Vangbury,Premium,Publicité
-C_0620,37,Michaelmouth,Standard,Publicité
-C_0621,22,New Sydneychester,Basique,Publicité
-C_0622,18,West Nicoleport,Standard,Affiliation
-C_0623,55,Coleberg,Basique,SEO
-C_0624,52,Port Melissa,Premium,Partenariat
-C_0625,41,Mirandabury,Standard,Affiliation
-C_0626,33,East Brianborough,Basique,Affiliation
-C_0627,63,Pooleville,Premium,Partenariat
-C_0628,46,Susanfort,Premium,Publicité
-C_0629,63,North Nancyville,Standard,Affiliation
-C_0630,24,Sabrinafurt,Basique,Email
-C_0631,61,Tamaramouth,Premium,Affiliation
-C_0632,20,West Dianeton,Standard,Partenariat
-C_0633,47,Lake Nicole,Standard,Partenariat
-C_0634,61,Melindachester,Premium,Direct
-C_0635,39,Lake Raymondview,Standard,Email
-C_0636,19,Lisafurt,Basique,Email
-C_0637,34,North Robert,Premium,SEO
-C_0638,47,Ashleyfort,Standard,Direct
-C_0639,64,Port Connorberg,Basique,Direct
-C_0640,49,West Destinyfurt,Basique,Email
-C_0641,42,Lake Tim,Premium,Affiliation
-C_0642,55,West Kevin,Premium,Publicité
-C_0643,39,Johnsonfort,Basique,Partenariat
-C_0644,34,Cunninghamchester,Premium,Direct
-C_0645,49,Valerieport,Basique,Direct
-C_0646,39,Rodriguezborough,Premium,SEO
-C_0647,57,Victoriabury,Standard,Affiliation
-C_0648,50,Lake Ashleyview,Standard,Partenariat
-C_0649,50,South Kristy,Premium,Email
-C_0650,47,Dillonview,Premium,Email
-C_0651,43,Jesusbury,Standard,SEO
-C_0652,55,South Lanceberg,Basique,SEO
-C_0653,63,South Deborah,Standard,SEO
-C_0654,32,North Tonyberg,Standard,SEO
-C_0655,61,North Alejandraton,Premium,Publicité
-C_0656,20,Margaretmouth,Basique,Direct
-C_0657,26,Elizabethtown,Standard,Partenariat
-C_0658,56,South Markfurt,Basique,Partenariat
-C_0659,29,North Meghan,Standard,Affiliation
-C_0660,37,Harrisport,Standard,Publicité
-C_0661,24,Susanmouth,Basique,Affiliation
-C_0662,33,Taylorborough,Standard,SEO
-C_0663,39,Penaton,Standard,Publicité
-C_0664,58,Port Kelseymouth,Standard,Direct
-C_0665,28,Lake Erik,Standard,Direct
-C_0666,29,New Christineshire,Basique,Affiliation
-C_0667,30,West Timothy,Premium,Email
-C_0668,36,New Rachelhaven,Basique,Direct
-C_0669,53,West Shelley,Premium,Email
-C_0670,49,East Rebeccachester,Basique,Affiliation
-C_0671,35,New Kellymouth,Standard,SEO
-C_0672,36,Morrismouth,Standard,Email
-C_0673,49,North Gary,Premium,Publicité
-C_0674,20,Craigside,Standard,Publicité
-C_0675,52,Port Lisa,Premium,Email
-C_0676,32,West Andrewport,Premium,Affiliation
-C_0677,47,Philipberg,Premium,SEO
-C_0678,41,Port Laura,Premium,Affiliation
-C_0679,45,Lindaport,Standard,Affiliation
-C_0680,41,Johnmouth,Standard,Partenariat
-C_0681,49,West Kelli,Premium,Affiliation
-C_0682,51,South Jennifer,Standard,SEO
-C_0683,53,Cookmouth,Standard,SEO
-C_0684,29,Lake James,Basique,Email
-C_0685,35,New Alicia,Premium,Partenariat
-C_0686,52,East Johnny,Standard,Affiliation
-C_0687,47,Joshuaberg,Basique,SEO
-C_0688,61,East Kathy,Standard,Direct
-C_0689,19,Lindseyland,Basique,Email
-C_0690,22,Floreston,Standard,Email
-C_0691,58,North Tyler,Standard,Direct
-C_0692,64,Ericshire,Standard,Partenariat
-C_0693,37,Tiffanystad,Standard,Direct
-C_0694,34,Port Danielburgh,Basique,Partenariat
-C_0695,45,Jacksonmouth,Standard,Publicité
-C_0696,54,Thomasberg,Premium,Partenariat
-C_0697,57,Robertsland,Premium,Publicité
-C_0698,27,Port Juliamouth,Basique,Direct
-C_0699,31,West Maria,Standard,Email
-C_0700,27,South Melissa,Standard,Partenariat
-C_0701,18,Sarahshire,Premium,Affiliation
-C_0702,25,Williamsmouth,Basique,Affiliation
-C_0703,18,Jacksonville,Premium,Direct
-C_0704,37,Lake Cassandraville,Premium,Publicité
-C_0705,54,Lake Jennifer,Basique,Email
-C_0706,29,Kevinville,Premium,Partenariat
-C_0707,61,Port Aaron,Basique,Direct
-C_0708,61,Whitneystad,Basique,Email
-C_0709,37,Johnfort,Standard,Direct
-C_0710,19,Curtisport,Premium,Email
-C_0711,37,Port Chrismouth,Standard,Email
-C_0712,18,Cartershire,Basique,Publicité
-C_0713,23,Adrianfort,Premium,Email
-C_0714,22,Travisshire,Premium,Partenariat
-C_0715,31,Robertsberg,Standard,Affiliation
-C_0716,41,Larrymouth,Basique,Publicité
-C_0717,51,Port Ashleeport,Premium,SEO
-C_0718,46,Lake Amanda,Premium,Publicité
-C_0719,40,East Marisashire,Standard,Affiliation
-C_0720,40,Lake Courtneyfort,Standard,Email
-C_0721,33,South George,Standard,SEO
-C_0722,25,Williamshaven,Standard,Email
-C_0723,18,South Patriciaburgh,Basique,Email
-C_0724,49,Tracybury,Standard,Email
-C_0725,64,Waltonville,Standard,SEO
-C_0726,18,West Matthew,Basique,SEO
-C_0727,60,Port Karen,Standard,Direct
-C_0728,35,Rhodesmouth,Premium,SEO
-C_0729,25,Port Melissafort,Basique,Partenariat
-C_0730,29,Christopherville,Basique,Partenariat
-C_0731,63,Baileyshire,Premium,Partenariat
-C_0732,36,Goodwinburgh,Basique,Direct
-C_0733,22,Smithshire,Premium,SEO
-C_0734,45,Nunezmouth,Standard,SEO
-C_0735,23,Leslietown,Basique,Partenariat
-C_0736,50,West Samuelberg,Premium,Partenariat
-C_0737,30,Jessicaborough,Premium,Email
-C_0738,30,South Timothy,Basique,Partenariat
-C_0739,28,Kevinville,Standard,Email
-C_0740,55,Meredithmouth,Standard,Affiliation
-C_0741,55,Grahamfurt,Basique,Direct
-C_0742,51,Port Calvintown,Standard,Email
-C_0743,58,Zacharyborough,Basique,Publicité
-C_0744,62,Port Tonya,Basique,Partenariat
-C_0745,41,Princeberg,Standard,Direct
-C_0746,24,West Christophermouth,Premium,Email
-C_0747,32,Christopherside,Premium,Affiliation
-C_0748,24,Robertshire,Basique,Email
-C_0749,36,Hutchinsonville,Premium,Partenariat
-C_0750,50,Caseyport,Premium,Partenariat
-C_0751,52,Lake Veronica,Standard,SEO
-C_0752,28,West Meganbury,Basique,Direct
-C_0753,31,Steinside,Standard,SEO
-C_0754,63,Jerryview,Premium,Publicité
-C_0755,38,South Maria,Standard,SEO
-C_0756,23,Englishville,Premium,Email
-C_0757,43,Vazquezstad,Premium,Affiliation
-C_0758,22,Yoderland,Standard,Email
-C_0759,32,Ashleyton,Basique,Publicité
-C_0760,40,Michaelport,Standard,Direct
-C_0761,61,Michaelmouth,Basique,Publicité
-C_0762,62,East Patriciaburgh,Premium,Publicité
-C_0763,33,Rickymouth,Basique,Email
-C_0764,32,East Crystalmouth,Premium,Affiliation
-C_0765,28,South Lisaton,Basique,Affiliation
-C_0766,38,New Michaelhaven,Premium,Direct
-C_0767,36,Alecchester,Standard,Direct
-C_0768,21,North Clinton,Premium,Affiliation
-C_0769,63,North Tracy,Basique,Email
-C_0770,64,Lake Richard,Basique,SEO
-C_0771,53,West Michaelberg,Standard,SEO
-C_0772,19,Donnastad,Premium,Email
-C_0773,21,Garciatown,Standard,Partenariat
-C_0774,47,Timothymouth,Basique,Affiliation
-C_0775,27,North Kelsey,Basique,Email
-C_0776,48,Brownland,Basique,Partenariat
-C_0777,59,Zacharyfurt,Premium,SEO
-C_0778,53,West Lisa,Standard,Direct
-C_0779,18,Hammondbury,Premium,SEO
-C_0780,64,New Ruth,Basique,Email
-C_0781,39,South Jennifer,Standard,Email
-C_0782,39,Lake Jeffrey,Premium,SEO
-C_0783,26,Lake Alexis,Basique,SEO
-C_0784,41,North Hannahview,Standard,Partenariat
-C_0785,59,Donaldberg,Premium,SEO
-C_0786,44,Smithfort,Premium,Affiliation
-C_0787,41,Port Annette,Basique,Affiliation
-C_0788,56,Robertbury,Standard,Partenariat
-C_0789,35,North Cameronburgh,Basique,Affiliation
-C_0790,27,Marthastad,Premium,SEO
-C_0791,22,Hollandhaven,Basique,Partenariat
-C_0792,52,Allenmouth,Standard,Partenariat
-C_0793,38,New Julie,Premium,Direct
-C_0794,54,South Christopher,Basique,Publicité
-C_0795,45,Figueroamouth,Basique,Publicité
-C_0796,27,New Kathryn,Premium,Direct
-C_0797,30,Bondberg,Premium,Partenariat
-C_0798,42,Thomasfurt,Standard,Publicité
-C_0799,24,Adamsburgh,Premium,SEO
-C_0800,20,New Paul,Standard,Direct
-C_0801,56,East Laurie,Premium,Partenariat
-C_0802,28,South Barbara,Basique,Affiliation
-C_0803,63,Lake Joseph,Basique,Affiliation
-C_0804,43,East Julie,Standard,SEO
-C_0805,49,East Jonathanport,Basique,Email
-C_0806,63,Craigmouth,Premium,Partenariat
-C_0807,53,Reneeside,Basique,Partenariat
-C_0808,25,Samanthaville,Premium,Publicité
-C_0809,23,Cookhaven,Premium,Affiliation
-C_0810,30,East Caitlin,Premium,Affiliation
-C_0811,19,South Lorimouth,Premium,Affiliation
-C_0812,44,Dawnbury,Premium,Direct
-C_0813,25,Markshire,Standard,Publicité
-C_0814,61,Bryanborough,Premium,SEO
-C_0815,20,New Alexandrashire,Standard,Direct
-C_0816,19,Williamside,Basique,Affiliation
-C_0817,19,Lake Diane,Standard,Partenariat
-C_0818,52,North Stephenhaven,Standard,Direct
-C_0819,25,West Caitlin,Standard,Affiliation
-C_0820,53,North Eric,Premium,Email
-C_0821,46,New Lindsayfort,Basique,Partenariat
-C_0822,33,New Brianna,Standard,Direct
-C_0823,47,Riceview,Premium,Affiliation
-C_0824,34,Hollyberg,Basique,Direct
-C_0825,62,New Donaldmouth,Basique,Affiliation
-C_0826,57,North Josephshire,Standard,Email
-C_0827,37,Port Johnton,Premium,Partenariat
-C_0828,47,East Charles,Premium,Affiliation
-C_0829,23,South Carriebury,Standard,SEO
-C_0830,25,Penaburgh,Basique,Partenariat
-C_0831,33,Michaeltown,Standard,Affiliation
-C_0832,51,East Kimberly,Premium,Direct
-C_0833,53,Brownhaven,Premium,SEO
-C_0834,62,Josephport,Standard,Partenariat
-C_0835,38,South Isabella,Standard,Publicité
-C_0836,26,Jordanberg,Premium,Publicité
-C_0837,20,Lake Kevin,Standard,SEO
-C_0838,21,Murphyfurt,Standard,Direct
-C_0839,52,Nancymouth,Standard,Publicité
-C_0840,32,North Julietown,Standard,Affiliation
-C_0841,54,Bradchester,Standard,Affiliation
-C_0842,64,West Josephbury,Premium,SEO
-C_0843,55,Starkfort,Standard,Email
-C_0844,52,Lake Brianmouth,Standard,SEO
-C_0845,47,South Katherine,Standard,Direct
-C_0846,20,North Randallville,Basique,Affiliation
-C_0847,31,West Cathyport,Premium,Email
-C_0848,52,West Anthonyfurt,Standard,Publicité
-C_0849,19,North Wandaside,Basique,SEO
-C_0850,31,Tonyabury,Standard,SEO
-C_0851,42,Juliantown,Standard,Partenariat
-C_0852,50,New Chelsea,Basique,Direct
-C_0853,18,Lake Michael,Standard,Direct
-C_0854,63,Port Stacey,Premium,Affiliation
-C_0855,20,Susanside,Basique,Partenariat
-C_0856,23,Schneiderhaven,Premium,Email
-C_0857,51,Janeville,Premium,SEO
-C_0858,21,Kellyville,Premium,Affiliation
-C_0859,62,Carlostown,Premium,Direct
-C_0860,37,Barkerchester,Standard,Email
-C_0861,23,North Jose,Premium,Publicité
-C_0862,19,Jonton,Basique,Publicité
-C_0863,48,Lake Jacobbury,Basique,Email
-C_0864,36,Donnabury,Standard,SEO
-C_0865,42,Kevintown,Standard,Direct
-C_0866,28,Fernandezhaven,Standard,Email
-C_0867,48,Butlerfort,Basique,Partenariat
-C_0868,40,Kelleyfurt,Basique,Partenariat
-C_0869,52,Port Mary,Premium,Partenariat
-C_0870,45,South Margaret,Standard,Direct
-C_0871,24,Brianmouth,Premium,Affiliation
-C_0872,21,Greenland,Basique,Partenariat
-C_0873,54,West Amber,Basique,Affiliation
-C_0874,46,East Mary,Standard,SEO
-C_0875,54,East Alexander,Basique,Direct
-C_0876,52,New Davidton,Basique,Publicité
-C_0877,45,Henryton,Standard,Direct
-C_0878,24,Donaldberg,Premium,Email
-C_0879,39,South Lindsey,Premium,Direct
-C_0880,19,Garciaside,Standard,Publicité
-C_0881,38,Adkinstown,Standard,Direct
-C_0882,32,Port Cynthia,Premium,SEO
-C_0883,40,Gordonmouth,Standard,Email
-C_0884,18,Holdenburgh,Premium,Email
-C_0885,43,Port Jamesside,Standard,Email
-C_0886,38,Blairhaven,Premium,SEO
-C_0887,54,Lake Thomas,Premium,Affiliation
-C_0888,34,Brandonburgh,Basique,Partenariat
-C_0889,28,West Collinhaven,Basique,Email
-C_0890,43,Melanieburgh,Standard,Affiliation
-C_0891,51,Randybury,Standard,Publicité
-C_0892,58,Janetchester,Premium,Affiliation
-C_0893,46,Anthonyport,Standard,SEO
-C_0894,38,Christyborough,Standard,Email
-C_0895,58,Lopezshire,Premium,Partenariat
-C_0896,58,East Sarahside,Premium,SEO
-C_0897,46,New Jessica,Premium,SEO
-C_0898,57,Moranport,Premium,Affiliation
-C_0899,28,Christinaville,Basique,SEO
-C_0900,25,Hooverland,Basique,Direct
-C_0901,25,North Gina,Premium,Partenariat
-C_0902,40,Ochoaborough,Premium,Publicité
-C_0903,22,South Chelseafurt,Premium,Email
-C_0904,25,Zamoraside,Premium,Partenariat
-C_0905,40,Ralphshire,Basique,Partenariat
-C_0906,62,Nelsonhaven,Basique,Publicité
-C_0907,41,North Joshua,Premium,Email
-C_0908,37,North Eduardo,Premium,SEO
-C_0909,48,North Terri,Standard,Affiliation
-C_0910,28,North Sara,Basique,Publicité
-C_0911,24,Taylorberg,Basique,Affiliation
-C_0912,60,Hudsonfurt,Standard,Email
-C_0913,22,North Rebecca,Standard,Direct
-C_0914,49,New Adam,Standard,Direct
-C_0915,64,New Jack,Premium,Partenariat
-C_0916,26,Lake Anne,Standard,SEO
-C_0917,20,North Jamesport,Premium,Affiliation
-C_0918,21,Denisemouth,Standard,Partenariat
-C_0919,58,Lake Angelicahaven,Premium,SEO
-C_0920,27,Lake Samantha,Premium,Affiliation
-C_0921,29,South Jonathan,Basique,SEO
-C_0922,30,Lake Shawna,Premium,Affiliation
-C_0923,51,Johnmouth,Basique,SEO
-C_0924,32,South John,Premium,SEO
-C_0925,26,East Kaitlyn,Premium,Publicité
-C_0926,31,Bradleyview,Standard,Partenariat
-C_0927,39,Port Jessicastad,Standard,Affiliation
-C_0928,38,Petersonland,Basique,Direct
-C_0929,38,Davishaven,Basique,SEO
-C_0930,49,Hillland,Standard,Partenariat
-C_0931,29,South Sara,Premium,SEO
-C_0932,38,Johnberg,Premium,Direct
-C_0933,38,Jenniferland,Standard,Direct
-C_0934,57,Harrisberg,Standard,Affiliation
-C_0935,49,Jennifershire,Basique,Direct
-C_0936,39,New Suzannetown,Basique,Partenariat
-C_0937,39,Kinghaven,Premium,Email
-C_0938,35,Wilsonborough,Standard,Email
-C_0939,38,Moralesmouth,Basique,Affiliation
-C_0940,44,Scottchester,Standard,Publicité
-C_0941,40,Nicholasport,Premium,Direct
-C_0942,60,West Jenniferbury,Premium,Email
-C_0943,50,Escobarfort,Basique,Direct
-C_0944,36,Huberberg,Basique,Email
-C_0945,47,Stephanieville,Basique,Affiliation
-C_0946,64,Stephenland,Premium,Email
-C_0947,64,Jenniferburgh,Standard,SEO
-C_0948,33,South Richardside,Premium,Affiliation
-C_0949,22,Mariebury,Basique,Partenariat
-C_0950,21,Port Mark,Basique,SEO
-C_0951,51,East Brian,Basique,Partenariat
-C_0952,27,Catherinetown,Premium,Direct
-C_0953,56,West Henrystad,Basique,Publicité
-C_0954,19,Joshuaton,Premium,Email
-C_0955,26,Kingchester,Standard,SEO
-C_0956,43,West Kelli,Standard,Direct
-C_0957,29,Port Paul,Premium,Direct
-C_0958,31,New Jenniferstad,Premium,SEO
-C_0959,37,South Michelle,Basique,Publicité
-C_0960,48,Sylviachester,Basique,Direct
-C_0961,36,Juanville,Premium,SEO
-C_0962,21,Moniqueborough,Basique,Email
-C_0963,21,West Stephanieside,Standard,Direct
-C_0964,52,North Alexandrafort,Standard,Email
-C_0965,55,Harrisport,Premium,Direct
-C_0966,57,Garzahaven,Basique,Email
-C_0967,27,Williamsland,Standard,Direct
-C_0968,21,Michaelhaven,Premium,Email
-C_0969,37,West Jenniferside,Premium,Affiliation
-C_0970,46,West Madelinemouth,Standard,Publicité
-C_0971,41,Lauraton,Premium,SEO
-C_0972,21,Allenside,Standard,SEO
-C_0973,47,Lopezmouth,Standard,Publicité
-C_0974,48,New Deanna,Basique,Partenariat
-C_0975,63,Shawnland,Basique,Direct
-C_0976,41,South Alexis,Premium,Affiliation
-C_0977,47,Whitneyfort,Standard,Direct
-C_0978,48,Whitakerfurt,Basique,Email
-C_0979,53,Lake Jeremyport,Standard,Partenariat
-C_0980,50,Martinborough,Standard,Affiliation
-C_0981,45,South Jose,Basique,Publicité
-C_0982,62,New Leonberg,Premium,Partenariat
-C_0983,23,Fullerport,Basique,Publicité
-C_0984,32,Sherryborough,Standard,Direct
-C_0985,28,North Amy,Basique,Partenariat
-C_0986,43,East Heather,Premium,Partenariat
-C_0987,27,East Noah,Standard,Publicité
-C_0988,30,Youngmouth,Basique,Partenariat
-C_0989,47,Shawchester,Standard,Direct
-C_0990,62,Reneebury,Standard,Partenariat
-C_0991,62,Manningville,Basique,Email
-C_0992,36,Jordanland,Standard,Publicité
-C_0993,63,South Stephanieview,Standard,Publicité
-C_0994,22,Ianhaven,Premium,Email
-C_0995,37,Sandovalburgh,Premium,Email
-C_0996,27,Michaelfort,Premium,Affiliation
-C_0997,23,Michaelville,Standard,Affiliation
-C_0998,56,Lake Jasonstad,Basique,SEO
-C_0999,52,Richardfurt,Premium,Partenariat
+C_0000,56,Ashleyfort,Premium,Publicité
+C_0001,25,Jonesfurt,Premium,Email
+C_0002,56,West Davidhaven,Standard,Publicité
+C_0003,40,New Courtney,Basique,Publicité
+C_0004,41,Elizabethburgh,Premium,Affiliation
+C_0005,57,West Shawn,Basique,Direct
+C_0006,19,West David,Standard,Direct
+C_0007,19,Lake Kevinshire,Premium,Partenariat
+C_0008,29,South Charlesland,Standard,Direct
+C_0009,61,New Susanfurt,Premium,Partenariat
+C_0010,44,West Jessicamouth,Basique,SEO
+C_0011,45,Hamptonhaven,Basique,Direct
+C_0012,64,Hayesland,Standard,Publicité
+C_0013,61,New Apriltown,Basique,Affiliation
+C_0014,20,Teresaside,Premium,Publicité
+C_0015,24,West Jasonbury,Premium,Partenariat
+C_0016,56,East Rodneychester,Standard,Affiliation
+C_0017,42,Youngberg,Standard,SEO
+C_0018,26,Knighttown,Standard,Email
+C_0019,19,West Elizabethland,Basique,Affiliation
+C_0020,24,North Brittney,Premium,Publicité
+C_0021,31,New Johnbury,Premium,Affiliation
+C_0022,57,Mckeehaven,Standard,Direct
+C_0023,23,New Colleenstad,Standard,SEO
+C_0024,21,Amandafurt,Standard,Email
+C_0025,35,Thompsonview,Standard,Affiliation
+C_0026,51,Port Kathryn,Standard,Direct
+C_0027,53,Michaelchester,Standard,Direct
+C_0028,40,Kimbury,Premium,Direct
+C_0029,57,South Kennethland,Premium,Email
+C_0030,35,Thomaschester,Basique,Email
+C_0031,41,Garrettborough,Standard,Partenariat
+C_0032,62,Port Debbiebury,Premium,Email
+C_0033,32,New Christopher,Premium,Partenariat
+C_0034,42,Vazquezborough,Basique,Partenariat
+C_0035,41,Ashleymouth,Premium,Affiliation
+C_0036,25,West Meghan,Basique,Publicité
+C_0037,34,Kellertown,Basique,Publicité
+C_0038,50,North Whitney,Basique,Email
+C_0039,59,West Shannon,Basique,SEO
+C_0040,58,Port Steventown,Basique,Partenariat
+C_0041,25,Brownville,Standard,Partenariat
+C_0042,40,West Robertmouth,Standard,Email
+C_0043,52,New Danielle,Standard,Publicité
+C_0044,52,Cassidyton,Premium,Publicité
+C_0045,54,West Stacytown,Basique,Direct
+C_0046,20,Kimberlyport,Premium,Email
+C_0047,43,East Latoyatown,Basique,Direct
+C_0048,56,Mcleanton,Basique,Partenariat
+C_0049,32,Clineshire,Basique,SEO
+C_0050,59,North Karen,Premium,Publicité
+C_0051,49,Heidimouth,Basique,Partenariat
+C_0052,49,East Lindatown,Standard,Email
+C_0053,40,Charlesmouth,Basique,Email
+C_0054,32,New Jacob,Basique,Email
+C_0055,53,Jonathantown,Premium,Publicité
+C_0056,39,Michelleburgh,Standard,SEO
+C_0057,62,South Noah,Standard,Partenariat
+C_0058,23,West Marymouth,Standard,Direct
+C_0059,28,South Aaronport,Standard,Affiliation
+C_0060,42,Williamsshire,Basique,Direct
+C_0061,50,Port Richard,Premium,Partenariat
+C_0062,44,Gomeztown,Standard,Partenariat
+C_0063,30,Cantrellside,Premium,Publicité
+C_0064,56,West Kevinview,Standard,Publicité
+C_0065,26,Lake Antonio,Standard,Email
+C_0066,50,East Joemouth,Basique,SEO
+C_0067,61,East Emily,Basique,Publicité
+C_0068,49,North Andreside,Premium,Affiliation
+C_0069,29,West Ashley,Standard,SEO
+C_0070,20,Port Raymondport,Premium,Email
+C_0071,34,West Elizabethberg,Basique,Partenariat
+C_0072,19,New Christopher,Standard,Affiliation
+C_0073,40,West Michaelshire,Premium,Partenariat
+C_0074,18,Nunezview,Basique,Direct
+C_0075,19,East Megan,Premium,Affiliation
+C_0076,43,North Heatherberg,Standard,Affiliation
+C_0077,28,West Ashleyberg,Basique,Partenariat
+C_0078,55,Port Johnchester,Premium,Affiliation
+C_0079,51,Adamsberg,Standard,Direct
+C_0080,28,South Amandastad,Basique,Partenariat
+C_0081,26,Lake Michaelland,Basique,Direct
+C_0082,33,South Tonyaville,Premium,Publicité
+C_0083,37,New Brenda,Basique,Affiliation
+C_0084,36,North Natashaview,Standard,Publicité
+C_0085,36,Lake Katherineport,Basique,Affiliation
+C_0086,58,New Alexandraport,Premium,SEO
+C_0087,57,Port Kylemouth,Premium,Publicité
+C_0088,45,Kevinhaven,Premium,Partenariat
+C_0089,40,Mcintyrechester,Basique,Direct
+C_0090,59,Holtmouth,Basique,Affiliation
+C_0091,33,Lake Andrewside,Standard,Partenariat
+C_0092,19,Leonstad,Premium,Direct
+C_0093,29,Port Denise,Premium,Email
+C_0094,49,Port Peterborough,Basique,Partenariat
+C_0095,58,New Davidchester,Basique,Publicité
+C_0096,33,Jeffreymouth,Basique,Affiliation
+C_0097,41,Collinsstad,Standard,Partenariat
+C_0098,41,Kimberlyton,Basique,Partenariat
+C_0099,25,Destinyville,Standard,Affiliation
+C_0100,52,Hannahhaven,Standard,Partenariat
+C_0101,52,Warnerburgh,Premium,Email
+C_0102,35,West Allisonville,Standard,SEO
+C_0103,19,Port Jenniferland,Standard,Publicité
+C_0104,33,West Stephen,Premium,Partenariat
+C_0105,53,South Robert,Premium,Affiliation
+C_0106,50,Lewisstad,Standard,Email
+C_0107,37,South Timothyburgh,Basique,Publicité
+C_0108,34,Port Margaretfort,Premium,Affiliation
+C_0109,39,Lake Joshua,Basique,Direct
+C_0110,63,North Noah,Standard,Direct
+C_0111,55,Lake Deannahaven,Premium,Publicité
+C_0112,25,New Morganborough,Basique,Publicité
+C_0113,51,West Teresatown,Premium,Direct
+C_0114,50,South Haydenbury,Basique,Partenariat
+C_0115,22,Lake Emmaland,Premium,Publicité
+C_0116,21,Gonzaleztown,Basique,Partenariat
+C_0117,34,Jenniferfort,Standard,Email
+C_0118,63,East Elizabethfurt,Premium,Direct
+C_0119,52,Port Matthewmouth,Premium,Email
+C_0120,41,South Jennifer,Premium,Partenariat
+C_0121,63,Hullfurt,Premium,Publicité
+C_0122,50,Thomasside,Basique,Email
+C_0123,38,Port Cynthia,Basique,Partenariat
+C_0124,20,East Kimberly,Standard,Partenariat
+C_0125,59,Port Emilyville,Basique,Direct
+C_0126,20,Greenfort,Standard,SEO
+C_0127,49,Youngtown,Basique,Direct
+C_0128,40,Port Mark,Standard,Publicité
+C_0129,59,West Saramouth,Standard,SEO
+C_0130,34,Jillberg,Premium,Partenariat
+C_0131,60,South Charles,Standard,Email
+C_0132,59,Ronaldville,Basique,SEO
+C_0133,52,Dustinview,Standard,Partenariat
+C_0134,41,Lukeport,Premium,Affiliation
+C_0135,24,North Ann,Premium,Affiliation
+C_0136,62,Thomasshire,Premium,Direct
+C_0137,33,Gutierrezport,Standard,Affiliation
+C_0138,40,Garzatown,Basique,Affiliation
+C_0139,51,West Paul,Standard,Direct
+C_0140,42,Anthonybury,Standard,Direct
+C_0141,39,Lucaschester,Standard,SEO
+C_0142,39,West Isabella,Premium,Affiliation
+C_0143,59,Annamouth,Standard,Direct
+C_0144,60,Vincentport,Premium,Partenariat
+C_0145,25,Henryside,Premium,Affiliation
+C_0146,61,Larsonchester,Premium,Affiliation
+C_0147,23,New Melissaburgh,Premium,Affiliation
+C_0148,47,Mcgeefort,Basique,Publicité
+C_0149,57,North Jeffreyview,Premium,SEO
+C_0150,59,South Sandrafurt,Standard,Publicité
+C_0151,34,New Amy,Basique,Publicité
+C_0152,45,Lake Kimberlyberg,Standard,SEO
+C_0153,54,Jamesfort,Standard,Email
+C_0154,40,Richardton,Basique,Partenariat
+C_0155,29,Michelleshire,Premium,Partenariat
+C_0156,18,Gomezfurt,Basique,SEO
+C_0157,49,Nancyfurt,Standard,Direct
+C_0158,42,North Christopher,Premium,Email
+C_0159,18,Medinaside,Premium,Email
+C_0160,39,Gomezfort,Premium,Publicité
+C_0161,29,South Markstad,Standard,Publicité
+C_0162,54,Port Heather,Standard,Partenariat
+C_0163,46,Wilsonchester,Standard,Affiliation
+C_0164,22,Lewisland,Basique,Partenariat
+C_0165,47,East Johnport,Standard,Direct
+C_0166,22,Hernandezstad,Standard,SEO
+C_0167,38,New Chelseaburgh,Basique,Affiliation
+C_0168,50,Lake Brenda,Standard,Direct
+C_0169,54,East Justinfort,Basique,SEO
+C_0170,27,Lake Brandonville,Standard,Email
+C_0171,53,East Jacob,Standard,Affiliation
+C_0172,48,South Jennifertown,Standard,SEO
+C_0173,36,Whitefurt,Standard,Partenariat
+C_0174,22,South Jonathan,Premium,Affiliation
+C_0175,33,East Jasmine,Basique,SEO
+C_0176,45,Kathleenburgh,Basique,Affiliation
+C_0177,41,New Jamesmouth,Standard,Publicité
+C_0178,50,Juarezshire,Premium,Email
+C_0179,60,South Rebecca,Premium,Affiliation
+C_0180,20,South Matthew,Premium,Partenariat
+C_0181,57,Tylerhaven,Standard,Publicité
+C_0182,61,Michellechester,Premium,Email
+C_0183,29,Milesville,Basique,Direct
+C_0184,19,Christianchester,Premium,Publicité
+C_0185,52,West Philip,Basique,Partenariat
+C_0186,43,Port Josephchester,Premium,SEO
+C_0187,27,North Dylanview,Standard,Direct
+C_0188,51,Caseytown,Basique,Partenariat
+C_0189,24,Lake Loriton,Standard,Email
+C_0190,62,Port Saramouth,Basique,Email
+C_0191,53,Josephshire,Premium,Email
+C_0192,53,Christineton,Standard,Email
+C_0193,26,Colemouth,Basique,Partenariat
+C_0194,52,North John,Standard,Partenariat
+C_0195,56,Dunnberg,Basique,Direct
+C_0196,49,Ericborough,Premium,Affiliation
+C_0197,30,East Joshua,Basique,Partenariat
+C_0198,52,Ryanfurt,Premium,Direct
+C_0199,34,Melissaport,Premium,Direct
+C_0200,37,Shellyton,Premium,Direct
+C_0201,30,East Jeffreyfurt,Basique,Publicité
+C_0202,53,Port Cole,Premium,Partenariat
+C_0203,36,West Sandra,Premium,Affiliation
+C_0204,31,New Jay,Basique,Affiliation
+C_0205,36,Murphychester,Standard,Email
+C_0206,22,Port Jessicatown,Basique,Affiliation
+C_0207,42,Lake Elizabeth,Basique,Email
+C_0208,53,Brownchester,Premium,Partenariat
+C_0209,56,Jamestown,Premium,Email
+C_0210,59,Durhamtown,Standard,Direct
+C_0211,48,Jacquelinechester,Standard,Email
+C_0212,52,Michaelfort,Basique,Email
+C_0213,60,Courtneyland,Basique,SEO
+C_0214,64,Devonhaven,Premium,SEO
+C_0215,61,Rodriguezview,Premium,Email
+C_0216,55,West Angela,Basique,Direct
+C_0217,30,Lake Bradside,Standard,Partenariat
+C_0218,44,Kristiview,Standard,SEO
+C_0219,22,East Tomview,Premium,Email
+C_0220,55,Crystalshire,Basique,Email
+C_0221,18,South Maria,Standard,Affiliation
+C_0222,34,North Jane,Basique,Partenariat
+C_0223,62,Port Anne,Standard,Affiliation
+C_0224,48,West Jason,Basique,Email
+C_0225,61,Lake Samantha,Standard,Publicité
+C_0226,27,Tonyburgh,Standard,Publicité
+C_0227,56,East Wanda,Standard,Publicité
+C_0228,62,Davidtown,Premium,SEO
+C_0229,45,Elizabethchester,Standard,SEO
+C_0230,37,North Ericfort,Premium,Partenariat
+C_0231,56,Rogerbury,Premium,Publicité
+C_0232,30,Rodriguezhaven,Standard,Partenariat
+C_0233,42,Jacksonside,Premium,Direct
+C_0234,23,Christopherstad,Standard,Affiliation
+C_0235,62,New Aaron,Premium,Email
+C_0236,64,North Amberstad,Premium,Direct
+C_0237,38,Lake Kelly,Basique,Affiliation
+C_0238,54,Port Curtis,Basique,Publicité
+C_0239,37,Johnsonshire,Premium,SEO
+C_0240,64,Kempshire,Premium,Partenariat
+C_0241,31,Castrochester,Basique,Partenariat
+C_0242,20,North Megan,Basique,Partenariat
+C_0243,28,Alanside,Standard,Direct
+C_0244,29,Hillberg,Premium,SEO
+C_0245,45,Heatherstad,Standard,SEO
+C_0246,45,Alexanderburgh,Premium,Partenariat
+C_0247,53,Juanstad,Basique,Direct
+C_0248,34,Phamchester,Premium,Partenariat
+C_0249,37,South Joshua,Premium,Affiliation
+C_0250,46,South Cheryl,Premium,Direct
+C_0251,52,Daniellechester,Premium,Direct
+C_0252,35,West Samantha,Basique,Email
+C_0253,64,Bergport,Premium,SEO
+C_0254,27,Kempview,Standard,SEO
+C_0255,62,West Jasonside,Premium,Partenariat
+C_0256,18,Smithburgh,Standard,Partenariat
+C_0257,28,East Christinamouth,Premium,SEO
+C_0258,42,Sweeneytown,Standard,Publicité
+C_0259,44,West Jennifer,Premium,Email
+C_0260,50,Gloriamouth,Standard,Partenariat
+C_0261,52,Michaelbury,Basique,Partenariat
+C_0262,38,West Christopherview,Basique,Direct
+C_0263,45,New Matthewview,Premium,Email
+C_0264,48,Michaelstad,Premium,Direct
+C_0265,20,New Stephenstad,Premium,Email
+C_0266,54,West Adam,Standard,SEO
+C_0267,36,North Lori,Premium,Email
+C_0268,31,East Richard,Premium,Direct
+C_0269,18,Christinaberg,Basique,Email
+C_0270,30,South Kimberlyport,Standard,Partenariat
+C_0271,57,New Megan,Standard,Affiliation
+C_0272,48,North Lindsey,Basique,SEO
+C_0273,51,Kelseyside,Standard,Direct
+C_0274,20,Loganmouth,Basique,SEO
+C_0275,29,Pamelaview,Premium,Direct
+C_0276,61,Lake Ravenshire,Premium,Direct
+C_0277,47,Aprilbury,Basique,Partenariat
+C_0278,34,New Abigailhaven,Basique,Email
+C_0279,38,Port Madison,Standard,SEO
+C_0280,28,Martinezshire,Basique,Direct
+C_0281,51,East Melissa,Standard,SEO
+C_0282,51,Johnsonbury,Standard,Direct
+C_0283,32,Shannonview,Basique,Publicité
+C_0284,51,Lake Nicholaston,Premium,Direct
+C_0285,50,Emilystad,Basique,Affiliation
+C_0286,47,East Ryanton,Basique,SEO
+C_0287,34,Jeanside,Premium,Email
+C_0288,21,South Mark,Standard,Partenariat
+C_0289,27,Lake Christopherport,Premium,Affiliation
+C_0290,37,West Sandra,Premium,SEO
+C_0291,23,Elizabethchester,Premium,SEO
+C_0292,30,North Maryland,Standard,Publicité
+C_0293,60,Hammondborough,Basique,Publicité
+C_0294,64,East Michaelside,Premium,Publicité
+C_0295,33,New Suzanne,Premium,Publicité
+C_0296,49,East Markberg,Basique,Publicité
+C_0297,46,New Teresa,Standard,Email
+C_0298,36,Saraborough,Premium,Email
+C_0299,35,Ricardoton,Standard,Email
+C_0300,39,Jasonland,Premium,Direct
+C_0301,18,Lake Manuel,Premium,Partenariat
+C_0302,29,Kevinfort,Standard,Direct
+C_0303,51,South Natalieville,Premium,Direct
+C_0304,43,Jonathanhaven,Premium,Publicité
+C_0305,26,West Davidhaven,Standard,Partenariat
+C_0306,64,Port Rachelbury,Premium,Direct
+C_0307,64,South Lindsay,Standard,Publicité
+C_0308,34,Deborahburgh,Standard,Affiliation
+C_0309,18,Kristibury,Premium,Publicité
+C_0310,32,East Michaelside,Basique,Direct
+C_0311,31,Marystad,Standard,Affiliation
+C_0312,40,Yolandamouth,Standard,SEO
+C_0313,62,West Jeremy,Standard,Direct
+C_0314,24,New Patrick,Basique,Direct
+C_0315,60,Joneschester,Basique,Affiliation
+C_0316,62,Josephmouth,Standard,SEO
+C_0317,55,Port Tiffanyburgh,Basique,Publicité
+C_0318,32,Lake Edwin,Premium,Email
+C_0319,45,West Sandra,Standard,Partenariat
+C_0320,34,West Annette,Basique,Direct
+C_0321,43,Martineztown,Standard,Affiliation
+C_0322,42,New Diana,Premium,Email
+C_0323,37,Port Steven,Premium,Affiliation
+C_0324,27,Michellefurt,Basique,Partenariat
+C_0325,62,Jessetown,Standard,Affiliation
+C_0326,64,South Edgar,Standard,SEO
+C_0327,64,Davidchester,Premium,Affiliation
+C_0328,36,North Amandaborough,Standard,Partenariat
+C_0329,54,Lake Kevinberg,Standard,Affiliation
+C_0330,43,Sextonton,Standard,Publicité
+C_0331,62,East Rebecca,Standard,Email
+C_0332,50,Olsonburgh,Premium,Direct
+C_0333,38,New Nicole,Standard,Direct
+C_0334,21,Boyertown,Standard,Publicité
+C_0335,47,Lake Kathleen,Basique,Partenariat
+C_0336,20,Calebland,Basique,Email
+C_0337,53,Lake Williamberg,Basique,Direct
+C_0338,19,Stevenfurt,Basique,Affiliation
+C_0339,32,Blankenshiptown,Standard,Direct
+C_0340,47,West Andre,Standard,Publicité
+C_0341,19,Vincentmouth,Basique,Publicité
+C_0342,25,Christineport,Standard,Publicité
+C_0343,62,Heberthaven,Premium,Direct
+C_0344,43,Michaelfort,Standard,Affiliation
+C_0345,36,South Krystal,Premium,Affiliation
+C_0346,29,Michaeltown,Basique,Partenariat
+C_0347,43,West Vincent,Standard,Direct
+C_0348,54,North Austintown,Standard,Publicité
+C_0349,53,Thompsonside,Premium,Publicité
+C_0350,20,East Williamborough,Premium,Direct
+C_0351,27,Port Peterland,Premium,SEO
+C_0352,61,West Jerrymouth,Standard,Email
+C_0353,57,Scottstad,Standard,Affiliation
+C_0354,18,Lake Mike,Basique,Email
+C_0355,26,Kaylamouth,Premium,Partenariat
+C_0356,28,South Lynn,Basique,Direct
+C_0357,52,Richardmouth,Standard,Partenariat
+C_0358,22,South Cathymouth,Standard,Affiliation
+C_0359,61,Waremouth,Standard,Direct
+C_0360,28,Mejiastad,Premium,SEO
+C_0361,29,New Stevenville,Basique,Publicité
+C_0362,18,Aliciaview,Standard,Affiliation
+C_0363,46,Jamesport,Basique,Partenariat
+C_0364,54,Lake Dawn,Standard,Affiliation
+C_0365,47,Marthafort,Basique,Email
+C_0366,54,New Josephhaven,Premium,Publicité
+C_0367,31,Lake Brian,Standard,Direct
+C_0368,21,East Darrenview,Premium,Email
+C_0369,59,North Ronaldview,Premium,SEO
+C_0370,57,New Dennisland,Basique,Direct
+C_0371,49,Thomasberg,Basique,Email
+C_0372,55,South Dianeland,Premium,Partenariat
+C_0373,42,West Kari,Premium,Partenariat
+C_0374,64,South Jonathon,Basique,SEO
+C_0375,31,Gibsonland,Premium,Publicité
+C_0376,56,Reneeberg,Basique,Direct
+C_0377,23,Gabrielhaven,Basique,Publicité
+C_0378,25,Danielburgh,Standard,Affiliation
+C_0379,32,Phillipfort,Basique,Email
+C_0380,50,Gregoryland,Standard,Publicité
+C_0381,53,Kingshire,Premium,Direct
+C_0382,50,North Heidimouth,Premium,Email
+C_0383,44,East Mary,Basique,Partenariat
+C_0384,21,Rachelberg,Standard,SEO
+C_0385,27,Lake David,Premium,Publicité
+C_0386,27,North Jessica,Premium,Direct
+C_0387,55,New Meghanfort,Premium,Affiliation
+C_0388,62,South Crystalside,Basique,Email
+C_0389,25,East Jesusland,Premium,Email
+C_0390,64,Eatonborough,Premium,SEO
+C_0391,44,Lake Janetshire,Basique,Publicité
+C_0392,53,Johnsonbury,Standard,Publicité
+C_0393,44,East Joshua,Premium,Affiliation
+C_0394,28,Josemouth,Standard,SEO
+C_0395,57,Port Douglasberg,Standard,Direct
+C_0396,25,East Tracy,Basique,SEO
+C_0397,63,East Dylan,Basique,Affiliation
+C_0398,43,Lisaburgh,Premium,Direct
+C_0399,35,South Jennifer,Premium,Partenariat
+C_0400,64,West Bridgethaven,Basique,Affiliation
+C_0401,61,Sabrinaburgh,Premium,Email
+C_0402,25,Herreramouth,Basique,SEO
+C_0403,45,Katelynport,Basique,SEO
+C_0404,26,Lake Ericaborough,Standard,Publicité
+C_0405,46,Port Gary,Standard,Partenariat
+C_0406,39,Gomezhaven,Basique,Partenariat
+C_0407,63,Brooksport,Premium,Email
+C_0408,43,Housestad,Standard,Affiliation
+C_0409,40,New Michaelbury,Premium,Partenariat
+C_0410,57,Mathewsville,Basique,Email
+C_0411,64,Christopherside,Premium,Email
+C_0412,26,Cannonport,Standard,Affiliation
+C_0413,43,Dunnfort,Premium,Publicité
+C_0414,42,Jennyville,Standard,Publicité
+C_0415,55,South Annaton,Standard,SEO
+C_0416,44,Port Michael,Standard,Publicité
+C_0417,34,Josephberg,Basique,Publicité
+C_0418,61,Port Nathaniel,Basique,Publicité
+C_0419,41,Lake Chelsea,Premium,Affiliation
+C_0420,23,New Nataliemouth,Premium,Partenariat
+C_0421,46,New Jordanport,Basique,Publicité
+C_0422,39,South Stephanieside,Standard,Affiliation
+C_0423,38,Howellborough,Premium,Partenariat
+C_0424,37,Mooremouth,Premium,Partenariat
+C_0425,37,Priceville,Standard,Direct
+C_0426,45,Davidfort,Basique,Email
+C_0427,57,South Rodney,Premium,Partenariat
+C_0428,49,Danafurt,Premium,Direct
+C_0429,40,Wadetown,Basique,Publicité
+C_0430,36,South Wendyfort,Standard,Direct
+C_0431,46,Christopherbury,Premium,Email
+C_0432,46,Lake Andrew,Standard,Publicité
+C_0433,35,Port Leslie,Premium,Direct
+C_0434,64,Robinsonstad,Standard,SEO
+C_0435,45,East Leslie,Premium,SEO
+C_0436,47,North Matthew,Standard,Publicité
+C_0437,21,New Diana,Premium,Email
+C_0438,56,Lake Dennis,Basique,SEO
+C_0439,27,East Juliemouth,Basique,Direct
+C_0440,51,Hendersonstad,Premium,Affiliation
+C_0441,49,Danielside,Standard,Email
+C_0442,25,South Nancyhaven,Premium,Partenariat
+C_0443,20,Hayeston,Basique,Publicité
+C_0444,25,Kellyview,Standard,Partenariat
+C_0445,64,Miaview,Premium,Publicité
+C_0446,50,Moralesberg,Basique,SEO
+C_0447,52,Richardsstad,Standard,Direct
+C_0448,60,North Heather,Premium,Direct
+C_0449,38,South James,Standard,SEO
+C_0450,24,Strongchester,Standard,Partenariat
+C_0451,40,Lake Tristanton,Premium,Publicité
+C_0452,36,West Erica,Premium,Affiliation
+C_0453,35,Lopezstad,Standard,Partenariat
+C_0454,64,Colonland,Premium,Affiliation
+C_0455,28,Lake Melindaberg,Standard,SEO
+C_0456,20,West Eric,Basique,Affiliation
+C_0457,37,South Allisonbury,Premium,Email
+C_0458,55,Lewisfurt,Standard,Partenariat
+C_0459,51,Lake Amy,Premium,Affiliation
+C_0460,52,Davisbury,Standard,Direct
+C_0461,61,South Robertborough,Premium,SEO
+C_0462,47,New Maryport,Basique,Direct
+C_0463,40,Carolville,Premium,SEO
+C_0464,34,Port Erictown,Standard,Partenariat
+C_0465,57,Barneschester,Standard,Email
+C_0466,42,Heatherside,Basique,Partenariat
+C_0467,39,Mariaton,Basique,Direct
+C_0468,21,Lake Sydney,Standard,SEO
+C_0469,46,Scottfurt,Premium,SEO
+C_0470,40,Danaton,Premium,Publicité
+C_0471,23,West Zachary,Standard,Email
+C_0472,59,Port Brian,Premium,Direct
+C_0473,51,Lake Patrickfurt,Premium,Email
+C_0474,42,Lake Ryanbury,Standard,SEO
+C_0475,29,South Susan,Basique,Email
+C_0476,59,Port Chase,Standard,Email
+C_0477,44,Gonzalezborough,Premium,Direct
+C_0478,44,Jamesstad,Standard,Affiliation
+C_0479,62,Williamshire,Premium,Email
+C_0480,24,Port Timothystad,Standard,Email
+C_0481,34,Harperside,Standard,Email
+C_0482,45,Jonathonchester,Standard,SEO
+C_0483,63,Port Carolstad,Standard,Affiliation
+C_0484,60,Randyview,Premium,Publicité
+C_0485,53,Santiagoburgh,Basique,SEO
+C_0486,46,Cheyenneshire,Premium,Publicité
+C_0487,57,Port Dalechester,Basique,Affiliation
+C_0488,56,Port Megan,Basique,Direct
+C_0489,51,Anthonyfort,Basique,Direct
+C_0490,39,Ashleybury,Premium,Partenariat
+C_0491,53,Williamsburgh,Basique,Affiliation
+C_0492,36,Rogersberg,Basique,Affiliation
+C_0493,60,Parrishport,Premium,Direct
+C_0494,62,Michaelbury,Basique,SEO
+C_0495,26,Laurenfort,Standard,SEO
+C_0496,26,North Kristina,Premium,Partenariat
+C_0497,18,East Williamland,Premium,Email
+C_0498,60,North David,Standard,Partenariat
+C_0499,56,Allenshire,Basique,Publicité
+C_0500,54,Garciaview,Basique,Direct
+C_0501,55,North Jeffreytown,Standard,Affiliation
+C_0502,36,Scottview,Premium,Affiliation
+C_0503,34,North Kellybury,Standard,Partenariat
+C_0504,64,Port Desiree,Standard,Publicité
+C_0505,25,Lake Amybury,Basique,Email
+C_0506,34,East Daniel,Basique,Email
+C_0507,33,Wagnerbury,Standard,Partenariat
+C_0508,35,Ramoshaven,Premium,Affiliation
+C_0509,32,North Eric,Basique,SEO
+C_0510,58,South Casey,Premium,SEO
+C_0511,64,Port Randy,Standard,Partenariat
+C_0512,40,Gonzaleztown,Standard,Email
+C_0513,39,Scottborough,Standard,Direct
+C_0514,32,Lynnburgh,Premium,Partenariat
+C_0515,25,Dixonhaven,Standard,Publicité
+C_0516,40,Amberside,Premium,SEO
+C_0517,48,Hansenborough,Standard,Affiliation
+C_0518,56,Martinshire,Basique,SEO
+C_0519,59,Ericburgh,Basique,Partenariat
+C_0520,31,Millerchester,Basique,Publicité
+C_0521,61,Espinozaport,Premium,SEO
+C_0522,20,South Rodney,Premium,Publicité
+C_0523,57,Port Kevinport,Standard,Affiliation
+C_0524,56,Port Paigemouth,Basique,Partenariat
+C_0525,21,North Patriciashire,Premium,Direct
+C_0526,42,North Lisafort,Premium,SEO
+C_0527,50,Terryberg,Premium,SEO
+C_0528,61,North Rebeccamouth,Standard,SEO
+C_0529,52,Seanborough,Standard,SEO
+C_0530,47,Jeremyhaven,Basique,Email
+C_0531,30,Holmesmouth,Standard,Publicité
+C_0532,56,Baldwinhaven,Standard,Affiliation
+C_0533,46,Kyleville,Standard,Partenariat
+C_0534,46,Rachelstad,Standard,Email
+C_0535,61,Port Lisabury,Premium,Affiliation
+C_0536,64,Port Sonyaport,Premium,SEO
+C_0537,47,Bakerbury,Premium,Affiliation
+C_0538,22,Mcclainhaven,Premium,Direct
+C_0539,20,Jenniferfurt,Premium,Direct
+C_0540,47,East Kimberly,Standard,Affiliation
+C_0541,35,Port Amanda,Standard,Email
+C_0542,42,Lindseyborough,Premium,Email
+C_0543,63,North Nathanfurt,Basique,Partenariat
+C_0544,32,Bridgeshaven,Premium,Partenariat
+C_0545,41,North Staceyborough,Basique,SEO
+C_0546,54,Port Teresaville,Premium,Email
+C_0547,60,Dennismouth,Standard,Direct
+C_0548,41,West Susan,Basique,Direct
+C_0549,30,Melissaport,Standard,Partenariat
+C_0550,24,West Jamesstad,Basique,Affiliation
+C_0551,46,Nicholasbury,Basique,Direct
+C_0552,62,Torresland,Standard,SEO
+C_0553,60,North Angelamouth,Standard,Partenariat
+C_0554,43,Monroeton,Premium,Partenariat
+C_0555,20,New Sethtown,Standard,Email
+C_0556,22,Lake Ericfort,Standard,Partenariat
+C_0557,26,Ashleyville,Basique,Affiliation
+C_0558,59,Lake Kimberlyville,Basique,SEO
+C_0559,35,Port Christina,Standard,Partenariat
+C_0560,41,Lake Diane,Basique,Publicité
+C_0561,55,Santosmouth,Premium,Email
+C_0562,64,Tylerland,Premium,Partenariat
+C_0563,21,West Robinchester,Standard,Email
+C_0564,51,Walkerside,Basique,Partenariat
+C_0565,20,East Amy,Basique,Affiliation
+C_0566,46,Lake Brianna,Premium,Publicité
+C_0567,42,East Jeffrey,Standard,Affiliation
+C_0568,59,Davishaven,Premium,Partenariat
+C_0569,22,Fowlerfort,Basique,Publicité
+C_0570,51,Sloanhaven,Basique,Direct
+C_0571,25,West Tonyfurt,Basique,Email
+C_0572,43,Port Donland,Standard,Direct
+C_0573,54,Lake Reneeland,Premium,Affiliation
+C_0574,22,New Andrewtown,Premium,Partenariat
+C_0575,57,West Sarahview,Premium,Direct
+C_0576,46,East Marissafurt,Basique,SEO
+C_0577,20,Scotttown,Standard,Publicité
+C_0578,30,Lake Tonifort,Premium,Partenariat
+C_0579,23,Lake Catherinestad,Basique,Affiliation
+C_0580,50,Franklinview,Basique,Publicité
+C_0581,58,Lake Mary,Premium,Publicité
+C_0582,62,Michellefurt,Premium,Email
+C_0583,59,Taylorberg,Basique,Publicité
+C_0584,55,Mccoyburgh,Basique,Email
+C_0585,60,West Stevenfort,Premium,SEO
+C_0586,48,Toddville,Basique,SEO
+C_0587,27,Nguyentown,Basique,Email
+C_0588,47,New Tiffany,Basique,SEO
+C_0589,53,East Loriberg,Standard,Direct
+C_0590,30,Barnesmouth,Premium,Affiliation
+C_0591,56,Gonzalezfurt,Standard,Email
+C_0592,63,South Sandra,Basique,Partenariat
+C_0593,58,Port Jacob,Premium,SEO
+C_0594,41,East Amandaberg,Premium,Publicité
+C_0595,23,Michaelstad,Basique,Direct
+C_0596,24,West Tammy,Standard,Partenariat
+C_0597,49,New Deanna,Standard,Affiliation
+C_0598,32,Davischester,Standard,Email
+C_0599,46,Cynthiaborough,Standard,Affiliation
+C_0600,37,Susantown,Standard,Affiliation
+C_0601,44,Quinnville,Premium,Affiliation
+C_0602,39,North Nicholasbury,Premium,SEO
+C_0603,18,Lake Sarahmouth,Standard,SEO
+C_0604,35,West Jamie,Standard,Direct
+C_0605,64,Kaiserfurt,Premium,Affiliation
+C_0606,53,West Gregory,Basique,Publicité
+C_0607,29,Lake Daniel,Basique,Email
+C_0608,28,New Joseph,Premium,Direct
+C_0609,64,Courtneyberg,Basique,Publicité
+C_0610,28,Amandaside,Standard,SEO
+C_0611,51,West Bryanhaven,Standard,SEO
+C_0612,46,New Benjaminmouth,Premium,Publicité
+C_0613,30,North Ashleyborough,Premium,Email
+C_0614,46,Derrickton,Basique,Affiliation
+C_0615,49,East Anna,Standard,Direct
+C_0616,37,Wallaceport,Standard,Publicité
+C_0617,44,New Michael,Basique,Partenariat
+C_0618,61,Sancheztown,Premium,Email
+C_0619,64,South Michael,Premium,Publicité
+C_0620,37,Travisbury,Standard,Publicité
+C_0621,22,Solomonview,Basique,Publicité
+C_0622,18,North Joshuachester,Standard,Affiliation
+C_0623,55,Lake Sierra,Basique,SEO
+C_0624,52,Thompsonport,Premium,Partenariat
+C_0625,41,Port Melissa,Standard,Affiliation
+C_0626,33,Lake Emilytown,Basique,Affiliation
+C_0627,63,Nicolestad,Premium,Partenariat
+C_0628,46,Richardsonbury,Premium,Publicité
+C_0629,63,Richardport,Standard,Affiliation
+C_0630,24,Lake Ashleystad,Basique,Email
+C_0631,61,West Rodneyhaven,Premium,Affiliation
+C_0632,20,Derekside,Standard,Partenariat
+C_0633,47,Reyesport,Standard,Partenariat
+C_0634,61,Bennettberg,Premium,Direct
+C_0635,39,South Rodneyfort,Standard,Email
+C_0636,19,Philipchester,Basique,Email
+C_0637,34,Lake Alexis,Premium,SEO
+C_0638,47,New Alexanderfurt,Standard,Direct
+C_0639,64,North Andre,Basique,Direct
+C_0640,49,Lake Scott,Basique,Email
+C_0641,42,Port Denisechester,Premium,Affiliation
+C_0642,55,Julieton,Premium,Publicité
+C_0643,39,Whitemouth,Basique,Partenariat
+C_0644,34,Debrahaven,Premium,Direct
+C_0645,49,Kathleenmouth,Basique,Direct
+C_0646,39,Lake Laura,Premium,SEO
+C_0647,57,Jonesstad,Standard,Affiliation
+C_0648,50,Lake Donna,Standard,Partenariat
+C_0649,50,Valdezchester,Premium,Email
+C_0650,47,Dawnmouth,Premium,Email
+C_0651,43,West James,Standard,SEO
+C_0652,55,South Andrew,Basique,SEO
+C_0653,63,Snowbury,Standard,SEO
+C_0654,32,East Victoriaport,Standard,SEO
+C_0655,61,New Derek,Premium,Publicité
+C_0656,20,Frankchester,Basique,Direct
+C_0657,26,Dennisborough,Standard,Partenariat
+C_0658,56,Kaiserchester,Basique,Partenariat
+C_0659,29,Nolanshire,Standard,Affiliation
+C_0660,37,Smithfort,Standard,Publicité
+C_0661,24,Linhaven,Basique,Affiliation
+C_0662,33,Maynardland,Standard,SEO
+C_0663,39,Madisonchester,Standard,Publicité
+C_0664,58,Larrymouth,Standard,Direct
+C_0665,28,Krystalborough,Standard,Direct
+C_0666,29,West Matthewburgh,Basique,Affiliation
+C_0667,30,Port Kathrynland,Premium,Email
+C_0668,36,Nguyenview,Basique,Direct
+C_0669,53,Austinstad,Premium,Email
+C_0670,49,Whitechester,Basique,Affiliation
+C_0671,35,Millerville,Standard,SEO
+C_0672,36,New Jennifer,Standard,Email
+C_0673,49,East Martha,Premium,Publicité
+C_0674,20,Michaelberg,Standard,Publicité
+C_0675,52,Michelleton,Premium,Email
+C_0676,32,North Joshua,Premium,Affiliation
+C_0677,47,Cassandraview,Premium,SEO
+C_0678,41,Karenmouth,Premium,Affiliation
+C_0679,45,New Stacyhaven,Standard,Affiliation
+C_0680,41,Lake Peter,Standard,Partenariat
+C_0681,49,South Christopher,Premium,Affiliation
+C_0682,51,West Samanthaberg,Standard,SEO
+C_0683,53,East Timothy,Standard,SEO
+C_0684,29,South Danielle,Basique,Email
+C_0685,35,Deanland,Premium,Partenariat
+C_0686,52,East Donna,Standard,Affiliation
+C_0687,47,Port Aaron,Basique,SEO
+C_0688,61,Maldonadochester,Standard,Direct
+C_0689,19,Changmouth,Basique,Email
+C_0690,22,Samuelview,Standard,Email
+C_0691,58,Stevensonfort,Standard,Direct
+C_0692,64,Lake Gabriel,Standard,Partenariat
+C_0693,37,Bethbury,Standard,Direct
+C_0694,34,East Deborahshire,Basique,Partenariat
+C_0695,45,Beckborough,Standard,Publicité
+C_0696,54,Port Kimberlymouth,Premium,Partenariat
+C_0697,57,Ivanfort,Premium,Publicité
+C_0698,27,Port Brianton,Basique,Direct
+C_0699,31,Griffinland,Standard,Email
+C_0700,27,Porterport,Standard,Partenariat
+C_0701,18,Andrewton,Premium,Affiliation
+C_0702,25,West Mary,Basique,Affiliation
+C_0703,18,Cannonside,Premium,Direct
+C_0704,37,Andersonview,Premium,Publicité
+C_0705,54,Blackburnmouth,Basique,Email
+C_0706,29,North Lisa,Premium,Partenariat
+C_0707,61,Port Maurice,Basique,Direct
+C_0708,61,North Matthew,Basique,Email
+C_0709,37,Lake Michael,Standard,Direct
+C_0710,19,Mirandaview,Premium,Email
+C_0711,37,East Melissa,Standard,Email
+C_0712,18,North Emily,Basique,Publicité
+C_0713,23,West Wendy,Premium,Email
+C_0714,22,Brittanystad,Premium,Partenariat
+C_0715,31,Deborahchester,Standard,Affiliation
+C_0716,41,Lake Melissamouth,Basique,Publicité
+C_0717,51,North Kaylachester,Premium,SEO
+C_0718,46,New Alyssaland,Premium,Publicité
+C_0719,40,Davidton,Standard,Affiliation
+C_0720,40,Deniseland,Standard,Email
+C_0721,33,Jonesland,Standard,SEO
+C_0722,25,Port Brianna,Standard,Email
+C_0723,18,Bullockside,Basique,Email
+C_0724,49,Watkinsmouth,Standard,Email
+C_0725,64,Dwaynechester,Standard,SEO
+C_0726,18,Dunnmouth,Basique,SEO
+C_0727,60,Lake Brooke,Standard,Direct
+C_0728,35,East Jeremyville,Premium,SEO
+C_0729,25,Port Alexfort,Basique,Partenariat
+C_0730,29,Clarkport,Basique,Partenariat
+C_0731,63,East Javierstad,Premium,Partenariat
+C_0732,36,Greenport,Basique,Direct
+C_0733,22,Port Jesus,Premium,SEO
+C_0734,45,Debbieside,Standard,SEO
+C_0735,23,Tiffanytown,Basique,Partenariat
+C_0736,50,Payneport,Premium,Partenariat
+C_0737,30,South Melissafort,Premium,Email
+C_0738,30,New Troy,Basique,Partenariat
+C_0739,28,Silvaport,Standard,Email
+C_0740,55,Marieshire,Standard,Affiliation
+C_0741,55,New Angelicaborough,Basique,Direct
+C_0742,51,Catherineland,Standard,Email
+C_0743,58,East Scottfort,Basique,Publicité
+C_0744,62,New Lisa,Basique,Partenariat
+C_0745,41,Port Kristieshire,Standard,Direct
+C_0746,24,North Desireeville,Premium,Email
+C_0747,32,Port Melissamouth,Premium,Affiliation
+C_0748,24,Herreraborough,Basique,Email
+C_0749,36,Victorchester,Premium,Partenariat
+C_0750,50,Ashleyfurt,Premium,Partenariat
+C_0751,52,South Benjamin,Standard,SEO
+C_0752,28,Kennethview,Basique,Direct
+C_0753,31,Jerryhaven,Standard,SEO
+C_0754,63,Robertton,Premium,Publicité
+C_0755,38,New Danielview,Standard,SEO
+C_0756,23,Avilaborough,Premium,Email
+C_0757,43,Whitemouth,Premium,Affiliation
+C_0758,22,South Paul,Standard,Email
+C_0759,32,Danielview,Basique,Publicité
+C_0760,40,Port Cynthiafurt,Standard,Direct
+C_0761,61,Robertburgh,Basique,Publicité
+C_0762,62,New Samuelfurt,Premium,Publicité
+C_0763,33,Lake Gabriel,Basique,Email
+C_0764,32,North John,Premium,Affiliation
+C_0765,28,Port Bruce,Basique,Affiliation
+C_0766,38,South Christianbury,Premium,Direct
+C_0767,36,Melindafurt,Standard,Direct
+C_0768,21,Rachelborough,Premium,Affiliation
+C_0769,63,Kimmouth,Basique,Email
+C_0770,64,South Stacey,Basique,SEO
+C_0771,53,Lake Amanda,Standard,SEO
+C_0772,19,Royport,Premium,Email
+C_0773,21,Trevorhaven,Standard,Partenariat
+C_0774,47,West Jeremy,Basique,Affiliation
+C_0775,27,Romantown,Basique,Email
+C_0776,48,South Michaelbury,Basique,Partenariat
+C_0777,59,Port Rayfurt,Premium,SEO
+C_0778,53,Warnerland,Standard,Direct
+C_0779,18,Jonesburgh,Premium,SEO
+C_0780,64,Nguyenfurt,Basique,Email
+C_0781,39,Lake Heiditown,Standard,Email
+C_0782,39,South Toddburgh,Premium,SEO
+C_0783,26,Loriport,Basique,SEO
+C_0784,41,Joshuastad,Standard,Partenariat
+C_0785,59,East David,Premium,SEO
+C_0786,44,Port Nicole,Premium,Affiliation
+C_0787,41,North Jenniferchester,Basique,Affiliation
+C_0788,56,North Christopher,Standard,Partenariat
+C_0789,35,Lisaton,Basique,Affiliation
+C_0790,27,Carmenburgh,Premium,SEO
+C_0791,22,Steeletown,Basique,Partenariat
+C_0792,52,Jamesmouth,Standard,Partenariat
+C_0793,38,Lake Jose,Premium,Direct
+C_0794,54,Jasonview,Basique,Publicité
+C_0795,45,Andrewfort,Basique,Publicité
+C_0796,27,Johnsonton,Premium,Direct
+C_0797,30,Port Andrewville,Premium,Partenariat
+C_0798,42,Port Michelle,Standard,Publicité
+C_0799,24,Port Gabriel,Premium,SEO
+C_0800,20,Zavalaville,Standard,Direct
+C_0801,56,Bergview,Premium,Partenariat
+C_0802,28,South Kimberlybury,Basique,Affiliation
+C_0803,63,South Debraberg,Basique,Affiliation
+C_0804,43,Lake James,Standard,SEO
+C_0805,49,West Annettehaven,Basique,Email
+C_0806,63,Cookmouth,Premium,Partenariat
+C_0807,53,Lake Jessica,Basique,Partenariat
+C_0808,25,West Pamela,Premium,Publicité
+C_0809,23,Jamesville,Premium,Affiliation
+C_0810,30,Bobbyshire,Premium,Affiliation
+C_0811,19,New Josephport,Premium,Affiliation
+C_0812,44,North Gabrielleberg,Premium,Direct
+C_0813,25,Owensbury,Standard,Publicité
+C_0814,61,Lake Barbaraberg,Premium,SEO
+C_0815,20,Pittmanton,Standard,Direct
+C_0816,19,Mannshire,Basique,Affiliation
+C_0817,19,Nguyenshire,Standard,Partenariat
+C_0818,52,North Ronniefort,Standard,Direct
+C_0819,25,Lake Jerry,Standard,Affiliation
+C_0820,53,South Calvin,Premium,Email
+C_0821,46,Campbellport,Basique,Partenariat
+C_0822,33,Lake Jefferyland,Standard,Direct
+C_0823,47,Davidside,Premium,Affiliation
+C_0824,34,West Katherine,Basique,Direct
+C_0825,62,North Carl,Basique,Affiliation
+C_0826,57,East Danielhaven,Standard,Email
+C_0827,37,New Michael,Premium,Partenariat
+C_0828,47,Rachelland,Premium,Affiliation
+C_0829,23,South John,Standard,SEO
+C_0830,25,Whitechester,Basique,Partenariat
+C_0831,33,Donnaview,Standard,Affiliation
+C_0832,51,North Sophia,Premium,Direct
+C_0833,53,South Stephanieberg,Premium,SEO
+C_0834,62,West Amyville,Standard,Partenariat
+C_0835,38,South Kenneth,Standard,Publicité
+C_0836,26,Collierland,Premium,Publicité
+C_0837,20,Lisaland,Standard,SEO
+C_0838,21,Castillomouth,Standard,Direct
+C_0839,52,Bishopport,Standard,Publicité
+C_0840,32,Careyfort,Standard,Affiliation
+C_0841,54,West Amyland,Standard,Affiliation
+C_0842,64,Lake Jonathanfurt,Premium,SEO
+C_0843,55,East Joshua,Standard,Email
+C_0844,52,Port Heather,Standard,SEO
+C_0845,47,Robinsonland,Standard,Direct
+C_0846,20,Simontown,Basique,Affiliation
+C_0847,31,Maryport,Premium,Email
+C_0848,52,South Stephanie,Standard,Publicité
+C_0849,19,Lake Gabrielle,Basique,SEO
+C_0850,31,Christopherbury,Standard,SEO
+C_0851,42,Greenton,Standard,Partenariat
+C_0852,50,Phillipsstad,Basique,Direct
+C_0853,18,West Lori,Standard,Direct
+C_0854,63,West Danielburgh,Premium,Affiliation
+C_0855,20,Brianchester,Basique,Partenariat
+C_0856,23,Port Michaeltown,Premium,Email
+C_0857,51,Johnborough,Premium,SEO
+C_0858,21,Matastad,Premium,Affiliation
+C_0859,62,Morenoview,Premium,Direct
+C_0860,37,Cantuport,Standard,Email
+C_0861,23,Garyfort,Premium,Publicité
+C_0862,19,Paulland,Basique,Publicité
+C_0863,48,West Josephshire,Basique,Email
+C_0864,36,Tanyahaven,Standard,SEO
+C_0865,42,Amandamouth,Standard,Direct
+C_0866,28,Maryview,Standard,Email
+C_0867,48,Onealview,Basique,Partenariat
+C_0868,40,Port Melissa,Basique,Partenariat
+C_0869,52,Chaseberg,Premium,Partenariat
+C_0870,45,Glendaburgh,Standard,Direct
+C_0871,24,Mallorystad,Premium,Affiliation
+C_0872,21,Ryanfurt,Basique,Partenariat
+C_0873,54,Lake Todd,Basique,Affiliation
+C_0874,46,Ronaldmouth,Standard,SEO
+C_0875,54,Floresbury,Basique,Direct
+C_0876,52,Port Staceyville,Basique,Publicité
+C_0877,45,North Christinaton,Standard,Direct
+C_0878,24,Josephfort,Premium,Email
+C_0879,39,Charlesmouth,Premium,Direct
+C_0880,19,Scottburgh,Standard,Publicité
+C_0881,38,Danaburgh,Standard,Direct
+C_0882,32,Robertsonville,Premium,SEO
+C_0883,40,Elaineborough,Standard,Email
+C_0884,18,Port Crystal,Premium,Email
+C_0885,43,Port Wesley,Standard,Email
+C_0886,38,Lake Nathan,Premium,SEO
+C_0887,54,South Lisa,Premium,Affiliation
+C_0888,34,New Robert,Basique,Partenariat
+C_0889,28,Katieton,Basique,Email
+C_0890,43,Brayburgh,Standard,Affiliation
+C_0891,51,North Michelleburgh,Standard,Publicité
+C_0892,58,Lake Kimberly,Premium,Affiliation
+C_0893,46,Port Glenntown,Standard,SEO
+C_0894,38,East Robinberg,Standard,Email
+C_0895,58,Michelleton,Premium,Partenariat
+C_0896,58,Charlesburgh,Premium,SEO
+C_0897,46,Heatherfurt,Premium,SEO
+C_0898,57,East Stephaniestad,Premium,Affiliation
+C_0899,28,Port Carolstad,Basique,SEO
+C_0900,25,Davisstad,Basique,Direct
+C_0901,25,North Gregoryburgh,Premium,Partenariat
+C_0902,40,South Antonio,Premium,Publicité
+C_0903,22,Port Steven,Premium,Email
+C_0904,25,North Samuel,Premium,Partenariat
+C_0905,40,Lake Matthewberg,Basique,Partenariat
+C_0906,62,Katrinahaven,Basique,Publicité
+C_0907,41,Johnsonberg,Premium,Email
+C_0908,37,West Isaiah,Premium,SEO
+C_0909,48,Lisahaven,Standard,Affiliation
+C_0910,28,East Heidimouth,Basique,Publicité
+C_0911,24,Davidbury,Basique,Affiliation
+C_0912,60,Millerville,Standard,Email
+C_0913,22,Port Davidmouth,Standard,Direct
+C_0914,49,Wilsonview,Standard,Direct
+C_0915,64,New Jessicahaven,Premium,Partenariat
+C_0916,26,East Donald,Standard,SEO
+C_0917,20,South Christopher,Premium,Affiliation
+C_0918,21,Bakerville,Standard,Partenariat
+C_0919,58,West Kathleenville,Premium,SEO
+C_0920,27,Lake Mary,Premium,Affiliation
+C_0921,29,Lake Kaitlinstad,Basique,SEO
+C_0922,30,Port Brianmouth,Premium,Affiliation
+C_0923,51,Millerstad,Basique,SEO
+C_0924,32,Evanberg,Premium,SEO
+C_0925,26,Port Sandra,Premium,Publicité
+C_0926,31,Michaelville,Standard,Partenariat
+C_0927,39,Lake Bryanville,Standard,Affiliation
+C_0928,38,Mcdowellton,Basique,Direct
+C_0929,38,Port Amandaport,Basique,SEO
+C_0930,49,Port Diana,Standard,Partenariat
+C_0931,29,New Kathleenfurt,Premium,SEO
+C_0932,38,New Amandaton,Premium,Direct
+C_0933,38,New Nicole,Standard,Direct
+C_0934,57,Theresachester,Standard,Affiliation
+C_0935,49,West Douglas,Basique,Direct
+C_0936,39,Hunterville,Basique,Partenariat
+C_0937,39,Port Kirsten,Premium,Email
+C_0938,35,West Richardhaven,Standard,Email
+C_0939,38,West Raymondberg,Basique,Affiliation
+C_0940,44,Lake Jacobshire,Standard,Publicité
+C_0941,40,West Christopher,Premium,Direct
+C_0942,60,Fischershire,Premium,Email
+C_0943,50,Hansenshire,Basique,Direct
+C_0944,36,Port Marcland,Basique,Email
+C_0945,47,Robertville,Basique,Affiliation
+C_0946,64,New Johnstad,Premium,Email
+C_0947,64,West Ryan,Standard,SEO
+C_0948,33,North Emilyport,Premium,Affiliation
+C_0949,22,Joanmouth,Basique,Partenariat
+C_0950,21,North Richard,Basique,SEO
+C_0951,51,East Robinborough,Basique,Partenariat
+C_0952,27,South Ericchester,Premium,Direct
+C_0953,56,New Angelafurt,Basique,Publicité
+C_0954,19,Lindseytown,Premium,Email
+C_0955,26,Hernandeztown,Standard,SEO
+C_0956,43,Josephfort,Standard,Direct
+C_0957,29,Port Monicaville,Premium,Direct
+C_0958,31,Port Shelby,Premium,SEO
+C_0959,37,North Jeffery,Basique,Publicité
+C_0960,48,Lake Jessica,Basique,Direct
+C_0961,36,Roberttown,Premium,SEO
+C_0962,21,Bradleyberg,Basique,Email
+C_0963,21,New Justin,Standard,Direct
+C_0964,52,East Mollyfurt,Standard,Email
+C_0965,55,Carpentertown,Premium,Direct
+C_0966,57,Beasleyfurt,Basique,Email
+C_0967,27,New Lisa,Standard,Direct
+C_0968,21,Kennethshire,Premium,Email
+C_0969,37,Lake John,Premium,Affiliation
+C_0970,46,Hortonfurt,Standard,Publicité
+C_0971,41,East Amandaside,Premium,SEO
+C_0972,21,Smithchester,Standard,SEO
+C_0973,47,Georgestad,Standard,Publicité
+C_0974,48,Port Heatherville,Basique,Partenariat
+C_0975,63,New Jessicafort,Basique,Direct
+C_0976,41,Jillshire,Premium,Affiliation
+C_0977,47,New Jodiside,Standard,Direct
+C_0978,48,Port Phyllis,Basique,Email
+C_0979,53,New Carlaport,Standard,Partenariat
+C_0980,50,Port Samantha,Standard,Affiliation
+C_0981,45,Millertown,Basique,Publicité
+C_0982,62,Port Michael,Premium,Partenariat
+C_0983,23,Johnville,Basique,Publicité
+C_0984,32,New Caitlin,Standard,Direct
+C_0985,28,New Brianborough,Basique,Partenariat
+C_0986,43,Anthonymouth,Premium,Partenariat
+C_0987,27,New Johnport,Standard,Publicité
+C_0988,30,Barbarashire,Basique,Partenariat
+C_0989,47,Lake Matthewville,Standard,Direct
+C_0990,62,South Jamesberg,Standard,Partenariat
+C_0991,62,Huffmanhaven,Basique,Email
+C_0992,36,New Brandiland,Standard,Publicité
+C_0993,63,East Ruth,Standard,Publicité
+C_0994,22,Theresashire,Premium,Email
+C_0995,37,West Rachelshire,Premium,Email
+C_0996,27,North Shawnfurt,Premium,Affiliation
+C_0997,23,Conleyberg,Standard,Affiliation
+C_0998,56,Williamsborough,Basique,SEO
+C_0999,52,North Jesse,Premium,Partenariat
