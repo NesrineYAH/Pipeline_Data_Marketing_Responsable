@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+  etl-pipeline:
+    build: .
+    command: python etl_pipeline.py
+    volumes:
+      - ./data:/app/data
+      
+  dashboard:
+    build: .
+    command: streamlit run dashboard.py --server.port=8501 --server.address=0.0.0.0
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - etl-pipeline
