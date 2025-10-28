@@ -1,57 +1,71 @@
-# 🚀 Numberly - Pipeline Data Marketing Responsable
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Numberly - Pipeline Data Marketing</title>
+</head>
+<body>
+    <h1>🚀 Numberly - Pipeline Data Marketing Responsable</h1>
+    <p><strong>Pipeline ETL + Dashboard pour l'analyse de données marketing respectueuse de la vie privée</strong></p>
 
-**Pipeline ETL + Dashboard pour l'analyse de données marketing respectueuse de la vie privée**
+    <h2>📋 Table des Matières</h2>
+    <ul>
+        <li><a href="#objectif">🎯 Objectif</a></li>
+        <li><a href="#architecture">🏗️ Architecture</a></li>
+        <li><a href="#technologies">🛠️ Technologies</a></li>
+        <li><a href="#installation">🚀 Installation</a></li>
+        <li><a href="#utilisation">📊 Utilisation</a></li>
+        <li><a href="#fonctionnalites">🎨 Fonctionnalités</a></li>
+        <li><a href="#structure">📁 Structure du Projet</a></li>
+    </ul>
 
----
+    <h2 id="objectif">🎯 Objectif</h2>
+    <p>Simuler un pipeline data engineering complet pour Numberly, spécialiste du Data Marketing, en mettant en œuvre :</p>
+    <ul>
+        <li><strong>Génération de données synthétiques</strong> respectueuses de la vie privée</li>
+        <li><strong>Pipeline ETL</strong> (Extract, Transform, Load) robuste</li>
+        <li><strong>Dashboard interactif</strong> pour l'analyse marketing</li>
+        <li><strong>Containerisation Docker</strong> pour la reproductibilité</li>
+    </ul>
 
-## 📋 Table des Matières
-- [🎯 Objectif](#-objectif)
-- [🏗️ Architecture](#️-architecture)
-- [🛠️ Technologies](#️-technologies)
-- [🚀 Installation](#-installation)
-- [📊 Utilisation](#-utilisation)
-- [🎨 Fonctionnalités](#-fonctionnalités)
-- [📁 Structure du Projet](#-structure-du-projet)
-- [🤝 Contribution](#-contribution)
+    <h2 id="architecture">🏗️ Architecture</h2>
+    <pre>
+📥 Génération Données → 🔄 Transformation ETL → 💾 Sauvegarde CSV → 📊 Dashboard Streamlit
+    </pre>
 
----
+    <h2 id="technologies">🛠️ Technologies</h2>
+    <h3>Backend</h3>
+    <ul>
+        <li>Python</li>
+        <li>Pandas</li>
+        <li>Faker</li>
+    </ul>
 
-## 🎯 Objectif
+    <h3>Visualisation</h3>
+    <ul>
+        <li>Streamlit</li>
+        <li>Plotly</li>
+    </ul>
 
-Simuler un pipeline data engineering complet pour Numberly, spécialiste du Data Marketing, en mettant en œuvre :
-- **Génération de données synthétiques** respectueuses de la vie privée
-- **Pipeline ETL** (Extract, Transform, Load) robuste
-- **Dashboard interactif** pour l'analyse marketing
-- **Containerisation Docker** pour la reproductibilité
+    <h3>Containerisation</h3>
+    <ul>
+        <li>Docker</li>
+        <li>Docker Compose</li>
+    </ul>
 
----
+    <h2 id="installation">🚀 Installation</h2>
 
-## 🏗️ Architecture
-
-```mermaid
-graph TB
-    A[📥 Génération Données] --> B[🔄 Transformation ETL]
-    B --> C[💾 Sauvegarde CSV]
-    C --> D[📊 Dashboard Streamlit]
-    E[🐳 Docker] --> A
-    E --> D
-🛠️ Technologies
-Catégorie	Technologies
-Backend	Python, Pandas, Faker
-Visualisation	Streamlit, Plotly
-Containerisation	Docker, Docker Compose
-Data	CSV, Données synthétiques
-🚀 Installation
-Méthode 1 : Avec Docker (Recommandé)
-bash
+    <h3>Méthode 1 : Avec Docker (Recommandé)</h3>
+    <pre><code>
 # Cloner le repository
 git clone <votre-repo>
 cd Numberly_Pipeline_Data_Marketing_Responsable
 
 # Lancer avec Docker Compose
 docker-compose up
-Méthode 2 : Manuellement
-bash
+    </code></pre>
+
+    <h3>Méthode 2 : Manuellement</h3>
+    <pre><code>
 # Créer l'environnement virtuel
 python -m venv numberly_env
 source numberly_env/bin/activate  # Linux/Mac
@@ -65,19 +79,20 @@ python etl_pipeline.py
 
 # Lancer le dashboard
 streamlit run dashboard/streamlit_app.py
-📊 Utilisation
-1. Génération des Données
-bash
-python etl_pipeline.py
-📈 Résultat : 1 000 clients et 5 000 interactions générées
+    </code></pre>
 
-2. Lancement du Dashboard
-bash
-streamlit run dashboard/streamlit_app.py
-🌐 Accès : http://localhost:8501
+    <h2 id="utilisation">📊 Utilisation</h2>
 
-3. Avec Docker
-bash
+    <h3>1. Génération des Données</h3>
+    <pre><code>python etl_pipeline.py</code></pre>
+    <p>📈 <strong>Résultat :</strong> 1 000 clients et 5 000 interactions générées</p>
+
+    <h3>2. Lancement du Dashboard</h3>
+    <pre><code>streamlit run dashboard/streamlit_app.py</code></pre>
+    <p>🌐 <strong>Accès :</strong> http://localhost:8501</p>
+
+    <h3>3. Avec Docker</h3>
+    <pre><code>
 # Lancer uniquement l'ETL
 docker-compose run etl-pipeline
 
@@ -86,29 +101,29 @@ docker-compose up dashboard
 
 # Tout lancer
 docker-compose up
-🎨 Fonctionnalités
-📈 Dashboard Analytics
-KPIs Principaux : Clients uniques, taux de conversion, chiffre d'affaires
+    </code></pre>
 
-Performance par Canal : SEO, Social, Email, Direct
+    <h2 id="fonctionnalites">🎨 Fonctionnalités</h2>
 
-Segmentation Clients : Premium, Standard, Basique
+    <h3>📈 Dashboard Analytics</h3>
+    <ul>
+        <li><strong>KPIs Principaux</strong> : Clients uniques, taux de conversion, chiffre d'affaires</li>
+        <li><strong>Performance par Canal</strong> : SEO, Social, Email, Direct</li>
+        <li><strong>Segmentation Clients</strong> : Premium, Standard, Basique</li>
+        <li><strong>Analyse Temporelle</strong> : Évolution des interactions et achats</li>
+        <li><strong>Visualisations Interactives</strong> : Graphiques Plotly</li>
+    </ul>
 
-Analyse Temporelle : Évolution des interactions et achats
+    <h3>🔧 Pipeline Data</h3>
+    <ul>
+        <li><strong>Génération de données réalistes</strong> avec Faker</li>
+        <li><strong>Nettoyage et transformation</strong> des données</li>
+        <li><strong>Calcul de métriques business</strong> (RFM, conversion, etc.)</li>
+        <li><strong>Export format CSV</strong> pour analyse ultérieure</li>
+    </ul>
 
-Visualisations Interactives : Graphiques Plotly
-
-🔧 Pipeline Data
-Génération de données réalistes avec Faker
-
-Nettoyage et transformation des données
-
-Calcul de métriques business (RFM, conversion, etc.)
-
-Export format CSV pour analyse ultérieure
-
-📁 Structure du Projet
-text
+    <h2 id="structure">📁 Structure du Projet</h2>
+    <pre>
 Numberly_Pipeline_Data_Marketing_Responsable/
 │
 ├── 📊 etl_pipeline.py              # Script ETL principal
@@ -120,64 +135,31 @@ Numberly_Pipeline_Data_Marketing_Responsable/
 ├── 📦 Dockerfile                  # Configuration Container
 ├── 📋 requirements.txt            # Dépendances Python
 └── 📖 README.md                   # Documentation
-📊 Jeu de Données
-Données Générées
-1 000 clients avec :
+    </pre>
 
-Démographie (âge, ville)
+    <h2>📊 Jeu de Données</h2>
 
-Segment (Premium, Standard, Basique)
+    <h3>Données Générées</h3>
+    <ul>
+        <li><strong>1 000 clients</strong> avec :
+            <ul>
+                <li>Démographie (âge, ville)</li>
+                <li>Segment (Premium, Standard, Basique)</li>
+                <li>Canal d'acquisition</li>
+            </ul>
+        </li>
+        <li><strong>5 000 interactions</strong> avec :
+            <ul>
+                <li>Types d'actions (page_vue, ajout_panier, achat)</li>
+                <li>Valeurs d'achat</li>
+                <li>Timestamps réalistes</li>
+            </ul>
+        </li>
+    </ul>
 
-Canal d'acquisition
+    <h2>👨‍💻 Auteur</h2>
+    <p>Développé avec ❤️ pour Numberly dans le cadre d'une recherche d'alternance Data Engineer/Data Analyst.</p>
+    <p><em>"Transformer la data en insights actionnables"</em> 🚀</p>
 
-5 000 interactions avec :
-
-Types d'actions (page_vue, ajout_panier, achat)
-
-Valeurs d'achat
-
-Timestamps réalistes
-
-Métriques Calculées
-Taux de conversion par canal
-
-Chiffre d'affaires total
-
-Panier moyen
-
-Segmentation comportementale
-
-🤝 Contribution
-Ce projet a été développé pour démontrer des compétences en data engineering dans le cadre d'une candidature pour Numberly.
-
-Stack technique alignée sur les besoins Numberly :
-
-✅ Python, SQL, ETL
-
-✅ Docker, Containerisation
-
-✅ Data Analysis, Visualisation
-
-✅ Marketing Data responsable
-
-📄 Licence
-Projet éducatif développé pour Numberly - © 2024
-
-👨‍💻 Auteur
-Développé avec ❤️ pour Numberly dans le cadre d'une recherche d'alternance Data Engineer/Data Analyst.
-
-"Transformer la data en insights actionnables" 🚀
-
-text
-
----
-
-## 🎯 **CE QUE CE README APPORTE :**
-
-✅ **Professionnel** et aligné avec Numberly  
-✅ **Démontre vos compétences** techniques  
-✅ **Guide d'installation** clair  
-✅ **Structure bien documentée**  
-✅ **Prêt pour GitHub** et les recruteurs  
-
-**Ajoutez-le à votre projet et votre repo GitHub sera parfait !** 😊
+</body>
+</html>
